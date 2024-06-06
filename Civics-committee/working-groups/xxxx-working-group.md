@@ -1,4 +1,4 @@
-# xxxx Working Group
+# Civics Working Group
 
 ## Purpose / Goal
 
