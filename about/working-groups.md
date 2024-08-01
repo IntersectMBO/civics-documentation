@@ -1,18 +1,26 @@
 # Working Groups
 
-Each Committee may freely establish working groups to study and address temporary work items.
 
-* Committees may invite any person or representative of an organization to participate in working groups.  Working groups are responsible to report back to their respective committee or subcommittee.
-* Members of the legal expert panel advising on the Constitution will be invited to participate in the constitution working group
-* Members of the community can also apply to become members of the constitution working group
 
 | Working Group Title                     | Working Group Lead          |
 | --------------------------------------- | --------------------------- |
 | Constitution Ratification Working Group | <p>Alex P<br>Danielle S</p> |
 
-Due to the sensitive nature of this Working Groups it need to be closed.  The constitution engagement lead (Thomas) will share regular updates on the progress and workshops. \
-\
-If you have any questions please don't hesitate in contacting the Committee via email -&#x20;
+**Working Group Purpose**
 
-[civics-committee@intersectmbo.org](mailto:civics-committee@intersectmbo.org)
+Helping the community to reach consensus on a Cardano constitution.  This is a temporary working group to guide the Cardano Constitution creation from draft consultation towards ratification following the Cardano Constitutional Convention in December 2024.
+
+**Working Group Deliverables**
+
+Facilitating the Cardano Constitution consultation process within 2024 and ensuring an “New Constitution” governance action is submitted on-chain following the Constitutional Convention.
+
+
+
+**Note on working groups:**
+
+Each Committee may freely establish working groups to study and address temporary work items.
+
+* Committees may invite any person or representative of an organization to participate in working groups.  Working groups are responsible to report back to their respective committee or subcommittee.
+* Relevant experts (legal, web3 governance, technical...) are advising this working group
+* Members of the community can also apply to become members of the constitution working group to provide expert inputs.
 
