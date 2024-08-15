@@ -7,4 +7,4 @@
 * [Civics Committee Governance](about/civics-committee-governance.md)
 * [Focus Areas for 2024](about/focus-areas-for-2024.md)
 * [Working Groups](about/working-groups.md)
-* [How to Contact Us](about/how-to-contact-us.md)
+* [How to Join or Contact Us?](about/how-to-contact-us.md)
