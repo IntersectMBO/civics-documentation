@@ -12,7 +12,7 @@ Please note - This is the interim Civics Committee, along with the other committ
 
 1 Secretary
 
-10 Committee Seats
+9 Committee Seats
 
 ##
 
