@@ -1,9 +1,5 @@
 # Focus Areas for 2024
 
-* Facilitate the community to converge on a DRep incentive scheme
-* Metadata standards: DReps, governance actions, CC, SPOs etc.
-* Ecosystem mapping - “see” what we’re governing
+* Updating the Interim Constitution to the "Draft Constitution" reviewed by the Constitutional Workshops
+* Enabling community consultation on the Draft Constitution with >60 community hosted workshops culminating in the Constitutional Convention in December
 * Input to the Cardano budget for Cardano Governance
-* Input to user requirements for governance tooling
-* Enabling off-chain discussions about proposals and ensuring a history of these discussions are captured
-* Evolving or defining new Cardano governance standards/ best practices/ processes
