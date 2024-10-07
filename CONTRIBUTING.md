@@ -30,7 +30,7 @@ Note that you might need to get approvals from all code owners (even though GitH
 ### Setup
 
 1. **Fork the repository:**
-   - Navigate to  https://github.com/Civics/Civics-committee-documentation
+   - Navigate to  https://github.com/IntersectMBO/Civics-documentation
    - Press the `Fork` button and make a fork of the repository.
 
 2. **Clone the fork:**
@@ -38,13 +38,13 @@ Note that you might need to get approvals from all code owners (even though GitH
    - Navigate to the directory where you want to store the project.
    - Run the following command to clone the repository:
      ```shell
-     git clone https://github.com/Civics/Civics-committee-documentation.git
+     git clone https://github.com/IntersectMBO/Civics-documentation.git
      ```
 
 3. **Navigate to the Project Directory:**
    - After cloning, change into the project's root directory:
      ```shell
-     cd Civics-committee-documentation
+     cd civics-documentation
      ```
 
 ### Make changes
