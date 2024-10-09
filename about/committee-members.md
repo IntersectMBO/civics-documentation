@@ -3,7 +3,7 @@
 
 
 {% hint style="info" %}
-Please note - This is the interim Civics Committee, along with the other committees the Civics Committee will participate in Intersect committee elections to select the next cohort of members
+Please note - This is the interim Cardano Civics Committee, along with the other committees the Civics Committee will participate in Intersect committee elections to select the next cohort of members
 {% endhint %}
 
 ## Committee Composition

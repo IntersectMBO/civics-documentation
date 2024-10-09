@@ -1,15 +1,8 @@
----
-description: >-
-  What is the Civics Committee? The Civics Committee provide facilitation and
-  oversight to the Cardano Community related to the governance of Cardano. This
-  includes developing and facilitating processes
----
+# About Cardano Civics Committee
 
-# About Civics Committee
+## What is the Cardano Civics Committee?
 
-## What is the Civics Committee?
-
-The Civics Committee provide facilitation and oversight to the Cardano Community related to the governance of Cardano. This includes developing and facilitating processes to engage the Cardano Community in governance and coordinating with subject matter experts where needed.
+The Cardano Civics Committee provide facilitation and oversight to the Cardano Community related to the governance of Cardano. This includes developing and facilitating processes to engage the Cardano Community in governance and coordinating with subject matter experts where needed.
 
 ## Why is this committee important?
 
