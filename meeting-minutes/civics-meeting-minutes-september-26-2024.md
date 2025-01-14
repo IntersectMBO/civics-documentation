@@ -1,35 +1,19 @@
 # Civics Meeting Minutes September 26, 2024
 
-### Generalized Updates
+Committee note publication process
 
-#### Intersect Elections update for Civics Committee
+* The CCC agreed to a process for providing public meeting minutes.
+* Meeting minutes will be published on the Intersect knowledge base, including the notes from the inception of the CCC.
 
-* The committee determined whose seat will be up for re-election in October 2024 and April 2025.
-* 4 will be re-elected in October, the remaining 5 in April
+Committee Compensation request and Governance support working group
 
-#### Introducing Cardano Governance Support Working Group
+* Concerns were raised about the volume and urgency of the CCC’s work until the end of the year considering committee members are not paid.
+* Options for funding were discussed.  It was noted that the governance support budget request will include a request for committee funding for 2025, and that there are some options to explore for 2024 funding.
+* It was noted that there is no precedent for committee funding, and the desire to keep committee funding consistent across all committees, and to not create exceptions.
+* Next steps for Governance support working group - raise this concern to Intersect leadership specifically for 2024 funding for CCC members’ time and continue to draft the 2025 governance support budget request with these concerns in mind.
 
-* Purpose: governance support. It will include offering support to the Interim Constitutional Committee (ICC) and other parts of the governing structures
-* Tasks of the working group proposed:
-  * Providing admin and facilitation resources to the ICC
-  * Source support services for the ICC
-  * Monitor tools for on-chain voting
-  * Update guidelines and templates for on-chain voting
-  * Provide non-binding recommendations as requested by the community on governance.  It was discussed that this task is too vague and needs to be refined.
-* Funds required for this will be part of the Cardano budget request
+Progress update: Constitution Ratification WG
 
-#### Budget request for Cardano governance&#x20;
-
-* The process for the governance support budget of 2025 was discussed.
-* It was noted that the budgeting estimation would benefit from conversations with the ICC and DReps to understand their needs.
-* The budget for 2025, once approved, will then allow for proposals to be submitted to the CCC against that budget.  The proposals must include the administration of the governance support funds allocated
-* It was also noted that the budget for 2026 needs to commence very shortly following 2025.
-
-#### Progress update from Constitution Ratification Working Group
-
-* 16 Constitutional workshops are complete.
-* The first delegate synthesis workshops are in progress.
-* The CCC is actively certifying the constitutional delegate workshops
-* Data outputs/review
-  * Most questions still need more responses or diversity of responses.
-  * Asking workshop hosts to select questions that require more responses, and deprioritize questions that have more data.
+* The working group update included a review of a community activity around the constitution - posts on [X.com](http://x.com/) and a forked Github version of the draft constitution.
+* The CCC will check the forked Github version of the draft constitution for new insights to complement the Constitutional Workshop data.
+* The CCC also discussed the importance of constitutional delegates as a means for gathering additional community inputs like this.

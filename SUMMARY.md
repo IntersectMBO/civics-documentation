@@ -25,3 +25,5 @@
 * [Civics Meeting Minutes July 18, 2024](meeting-minutes/civics-meeting-minutes-july-18-2024.md)
 * [Civics Meeting Minutes September 05, 2024](meeting-minutes/civics-meeting-minutes-september-05-2024.md)
 * [Civics Meeting Minutes September 26, 2024](meeting-minutes/civics-meeting-minutes-september-26-2024.md)
+* [Civics Meeting Minutes October 17, 2024](meeting-minutes/civics-meeting-minutes-october-17-2024.md)
+* [Civics Meeting Minutes November 7, 2024](meeting-minutes/civics-meeting-minutes-november-7-2024.md)
