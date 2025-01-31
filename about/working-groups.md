@@ -2,39 +2,43 @@
 
 
 
-| Working Group Title               | Working Group Lead |
-| --------------------------------- | ------------------ |
-| Constitution Ratification         | Danielle Stanko    |
-| Governance Support                |                    |
-| Constitutional Committee Election | Thomas Lindseth    |
+## **Constitution Ratification Working Group**
 
-**Constitution Ratification Working Group Purpose**
+**Purpose**
 
 Helping the community to reach consensus on a Cardano constitution.  This is a temporary working group to guide the Cardano Constitution creation from draft consultation towards ratification following the Cardano Constitutional Convention in December 2024.
 
-**Constitution Ratification Working Group Deliverables**
+**Deliverables**
 
 Facilitating the Cardano Constitution consultation process within 2024 and ensuring an “New Constitution” governance action is submitted on-chain following the Constitutional Convention.
 
+***
 
 
-**Governance Support Working Group Purpose**
+
+## **Governance Support Working Group**
+
+**Purpose**
 
 Ensure the success and legitimacy of the Cardano Governance system.
 
-**Constitution Ratification Working Group Deliverables**
+**Deliverables**
 
 * Submitting a Cardano Governance budget.
 * Providing administration and facilitation resources to the Constitutional Committee.
 * Facilitating a recommendation for DRep compensation via community consultation process.
 
+***
 
 
-**Constitutional Committee Election Working Group Purpose**
+
+## **Constitutional Committee Election Working Group**
+
+**Purpose**
 
 Enable the Constitutional Committee election to replace the Interim Constitutional Committee when its term expires in September 2025 (Epoch 580).
 
-**Constitutional Committee Election Working Group Deliverables**
+**Deliverables**
 
 * Design the election process, on and off-chain
 * Ensure any necessary tooling is prepared to execute the process
@@ -42,9 +46,11 @@ Enable the Constitutional Committee election to replace the Interim Constitution
 
 
 
+***
 
 
-**Note on working groups:**
+
+### **Note on working groups**
 
 Each Committee may freely establish working groups to study and address temporary work items.
 
