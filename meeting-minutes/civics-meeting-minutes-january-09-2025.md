@@ -1,4 +1,4 @@
-# Copy of Civics Meeting Minutes January 09, 2025
+# Civics Meeting Minutes January 09, 2025
 
 Chair election
 
