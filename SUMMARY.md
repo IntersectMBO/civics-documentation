@@ -6,6 +6,7 @@
 * [Committee Members](about/committee-members.md)
 * [Cardano Civics Committee Governance](about/civics-committee-governance.md)
 * [Focus Areas](about/focus-areas-for-2024.md)
+* [Civics Committee Budget Guidance](about/civics-committee-budget-guidance.md)
 * [Working Groups](about/working-groups.md)
 * [How to Join or Contact Us?](about/how-to-contact-us.md)
 
