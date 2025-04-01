@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-* [About Cardano Civics Committee](README.md)
+* [Cardano Civics Committee (CCC)](README.md)
 * [Committee Members](about/committee-members.md)
 * [Cardano Civics Committee Governance](about/civics-committee-governance.md)
 * [Focus Areas](about/focus-areas-for-2024.md)
