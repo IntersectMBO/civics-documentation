@@ -34,3 +34,4 @@
 ***
 
 * [Civics Meeting Minutes March 13, 2025](civics-meeting-minutes-march-13-2025.md)
+* [Civics Meeting Minutes April 3, 2025](civics-meeting-minutes-april-3-2025.md)
