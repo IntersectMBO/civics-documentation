@@ -18,10 +18,11 @@
 * Dzubang Mermoz (Member)
 * Randy (Wada) (Member)
 * Alex Seregin (Member)
+* Taichi Yokoyama
 
 ### **Members not present**&#x20;
 
-Taichi Yokoyama, Takeshi Ohishi, Reshan Fernando
+Takeshi Ohishi, Reshan Fernando
 
 ***
 
