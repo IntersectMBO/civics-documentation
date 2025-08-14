@@ -42,3 +42,4 @@
   * [Civics Meeting Minutes July 17, 2025](meeting-minutes/2025-civics-meeting-minutes/civics-meeting-minutes-july-17-2025.md)
   * [Civics Meeting Minutes July 24, 2025](meeting-minutes/2025-civics-meeting-minutes/civics-meeting-minutes-july-24-2025.md)
   * [Civics Meeting Minutes July 31, 2025](meeting-minutes/2025-civics-meeting-minutes/civics-meeting-minutes-july-31-2025.md)
+  * [Civics Meeting Minutes Aug 14 2025](meeting-minutes/2025-civics-meeting-minutes/civics-meeting-minutes-aug-14-2025.md)
