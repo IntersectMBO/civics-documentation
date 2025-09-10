@@ -2,12 +2,11 @@
 
 **2025 (so far)**
 
-* Constitution ratification
-* CivicsInput to the Cardano budget for Cardano Governance
+* Constitution ratification, and future Constitutional amendments
+* Fostering Governance Health, and governance education
+* Civics input to the Cardano budget for Cardano Governance
 * Enable the Constitutional Committee Elections
 * DRep compensation model
-
-
 
 **2024**
 
