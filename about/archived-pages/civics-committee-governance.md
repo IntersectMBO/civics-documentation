@@ -1,4 +1,8 @@
-# Civics Committee Governance
+---
+description: This page is archived (10th September 2025)
+---
+
+# Cardano Civics Committee Governance
 
 The general decision-making process is (in order):
 

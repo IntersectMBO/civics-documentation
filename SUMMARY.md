@@ -4,11 +4,12 @@
 
 * [Cardano Civics Committee (CCC)](README.md)
 * [Committee Members](about/committee-members.md)
-* [Cardano Civics Committee Governance](about/civics-committee-governance.md)
 * [Focus Areas](about/focus-areas-for-2024.md)
-* [Civics Committee Budget Guidance](about/civics-committee-budget-guidance.md)
 * [Working Groups](about/working-groups.md)
 * [How to Join or Contact Us?](about/how-to-contact-us.md)
+* [Archived Pages](about/archived-pages/README.md)
+  * [Civics Committee Budget Guidance](about/archived-pages/civics-committee-budget-guidance.md)
+  * [Cardano Civics Committee Governance](about/archived-pages/civics-committee-governance.md)
 
 ## Meeting Minutes
 
