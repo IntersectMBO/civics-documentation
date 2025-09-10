@@ -4,7 +4,7 @@ The **Civics Committee** and its working groups are open spaces for Intersect me
 
 ***
 
-### 👀 Observe Discussions & Meetings
+### Observe Discussions & Meetings
 
 * **Discord** – Join the Intersect Discord to view and take part in open discussion channels:
   * **Civics Committee**
@@ -15,7 +15,7 @@ The **Civics Committee** and its working groups are open spaces for Intersect me
 
 ***
 
-### 🗳️ Become a Voting Committee Member
+### Become a Voting Committee Member
 
 If you’d like to take an active role in decision-making:
 
@@ -25,26 +25,21 @@ If you’d like to take an active role in decision-making:
 
 ***
 
-### 🤝 Join a Working Group
+### Join a Working Group
 
 Working Groups (such as GHWG, GEWG, or CC Elections WG) are open to contributors from the community.
 
-* To **join a working group**, contact the Civics Secretary:\
+* To **join or find out more about participation in a working group**, contact the Civics Secretary:\
   📧 [**larisa.mcfarlane@intersectmbo.org**](mailto:larisa.mcfarlane@intersectmbo.org)
-* You can also **observe working group meetings** via the [Intersect Knowledge Base](https://chatgpt.com/c/68c16340-1f08-832f-8f7e-93f73fc6d6b5).
+* You can also **observe working group meetings** - details of meeting can be found in the Intersect Events Calendar
 
 ***
 
-### 📢 Stay Connected
+### Stay Connected
 
 * Follow [**Intersect Civics on X**](https://x.com/intersectCIVICS) for the latest updates.
-* Read the [**Civics Committee Meeting Minutes**](https://chatgpt.com/c/68c16340-1f08-832f-8f7e-93f73fc6d6b5), updated regularly in the Knowledge Base.
-* Check the [**Development Report**](https://chatgpt.com/c/68c16340-1f08-832f-8f7e-93f73fc6d6b5) for summaries and updates on Civics-related initiatives.
+* Read the [**Civics Committee Meeting Minutes**](../meeting-minutes/2025-civics-meeting-minutes/), updated regularly in the Knowledge Base.
+* Check the Weekly [**Dev Report**](https://intersectmbo.org/) for summaries and updates on Civics-related initiatives.
 
 ***
 
-✅ **Whether you want to observe, discuss, or take a leadership role — there’s a place for you in Civics.**
-
-***
-
-Would you like me to make this into a **GitBook-ready markdown page** (with headings, links, and clean formatting), so you can paste it directly into your repo?
