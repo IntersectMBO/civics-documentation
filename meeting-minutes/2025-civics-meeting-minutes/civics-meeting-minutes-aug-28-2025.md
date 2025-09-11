@@ -1,4 +1,4 @@
-# Civics Meeting Minutes Aug 28
+# Civics Meeting Minutes Aug 28 2025
 
 ## Attendees:&#x20;
 
