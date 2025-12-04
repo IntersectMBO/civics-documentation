@@ -36,6 +36,20 @@ The working group meets Wednesdays, 14:00-15:00 UTC - Click [Here](https://meet.
 
 ***
 
+## Constitution Amendments Process Working Group
+
+### **Purpose**
+
+To design a comprehensive Constitution Amendment Process (CAP) that is transparent, inclusive, and aligned with constitutional values. The final design will be presented to the Civics Committee for approval and subsequently proposed to the wider Community via an Information Governance Action for consent.
+
+### **Meetings**
+
+Regular meetings for this working group are **Thursdays, 9:00am UTC**.
+
+### **Deliverables**
+
+<table data-header-hidden><thead><tr><th width="631.75"></th><th></th></tr></thead><tbody><tr><td><strong>Deliverables</strong></td><td><strong>Status</strong></td></tr><tr><td><strong>M1: Working Group Setup &#x26; Inclusion:</strong> </td><td></td></tr><tr><td>Establish the CAP Working Group and charter, set up communication channels, conduct outreach, and ensure broad community inclusion. Design and run inclusive feedback pathways, public consultations, WG meetings, and explanatory materials.</td><td>Completed</td></tr><tr><td><strong>M2: Phase 1 – Requirements Document:</strong></td><td></td></tr><tr><td>Deliver the complete Constitutional Amendment Process (CAP) Phase 1 Requirements Document, outlining foundational, operative, and technical constraints. <em>(Due 4 weeks from charter ratification.)</em></td><td>Completed</td></tr><tr><td><strong>M3: Phase 2 – Process Design:</strong></td><td></td></tr><tr><td>Develop the full proposed design for the Constitutional Amendment Process, including workflows, consultation cycles, editorial review structures, role definitions, and ratification handover steps. </td><td>In Progress</td></tr><tr><td><strong>M4: Phase 3 – Tools &#x26; Implementation Plan:</strong></td><td></td></tr><tr><td>Create the tools, templates, open-source standards, and implementation guidance required to operationalize the CAP. </td><td>Not Started</td></tr><tr><td><strong>M5: Documentation, Reporting:</strong></td><td></td></tr><tr><td>Maintain transparent working group records and prepare a complete package to support long-term stewardship, implementation, and future iteration.</td><td>In Progress</td></tr></tbody></table>
+
 ## **Constitutional Committee Election Working Group**
 
 **Purpose**

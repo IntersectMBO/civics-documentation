@@ -6,10 +6,11 @@ The **Civics Committee** and its working groups are open spaces for Intersect me
 
 ### Observe Discussions & Meetings
 
-* **Discord** – Join the Intersect Discord to view and take part in open discussion channels:
+* **Discord** – Join the Intersect Discord or contact Civics Secretary (<mark style="color:blue;">larisa.mcfarlane@intersectmbo.org</mark>) to view and take part in open discussion channels:
   * **Civics Committee**
   * **Governance Health Working Group (GHWG)**
   * **Governance Education Working Group (GEWG)**
+  * **Constitution Amendment Process Working Group (CAPWG)**
   * **Constitutional Committee Elections Working Group (CC Elections WG)**
 * **Open Meetings** – You can observe Civics Committee and working group meetings via the links provided in the [Intersect Knowledge Base](https://chatgpt.com/c/68c16340-1f08-832f-8f7e-93f73fc6d6b5) (KB).
 
