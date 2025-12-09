@@ -10,7 +10,7 @@ This working group focuses on making governance accessible and understandable to
 
 **Meetings**
 
-The working group meets on Tuesdays,  11:00-12:00 UTC. Click [Here ](https://meet.google.com/pzu-esbd-nov)  to join meetings
+The working group meets on Tuesdays,  12:00 UTC. Click [Here ](https://meet.google.com/pzu-esbd-nov)  to join meetings
 
 **Deliverables**
 
