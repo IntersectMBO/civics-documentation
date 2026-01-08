@@ -51,3 +51,6 @@
   * [Civics Meeting Mintues Sep 18 2025](meeting-minutes/2025-civics-meeting-minutes/civics-meeting-mintues-sep-18-2025.md)
   * [Civics Meeting Minutes Nov 27 2025](meeting-minutes/2025-civics-meeting-minutes/civics-meeting-minutes-nov-27-2025.md)
   * [Civics Meeting Minutes Dec 4 2025](meeting-minutes/2025-civics-meeting-minutes/civics-meeting-minutes-dec-4-2025.md)
+  * [Page](meeting-minutes/2025-civics-meeting-minutes/page.md)
+* [2026 Meeting Minutes](meeting-minutes/2026-meeting-minutes/README.md)
+  * [Civics Meeting Minutes 8th Jan 2026](meeting-minutes/2026-meeting-minutes/civics-meeting-minutes-8th-jan-2026.md)
