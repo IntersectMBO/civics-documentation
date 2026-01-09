@@ -1,7 +1,5 @@
 # Working Groups
 
-
-
 ## Governance Education Working Group
 
 **Purpose**
@@ -32,7 +30,7 @@ The working group meets Wednesdays, 14:00-15:00 UTC - Click [Here](https://meet.
 
 **Deliverables**
 
-<table data-header-hidden><thead><tr><th width="528.85546875">Deliverables</th><th width="105.37890625">Status<select><option value="FCDhoxxOT0Gv" label="Not Yet Started" color="blue"></option><option value="f69cDmUXq78o" label="In Progress" color="blue"></option><option value="RaF197Uk53QO" label="Completed" color="blue"></option></select></th></tr></thead><tbody><tr><td><strong>M1: Foundations:</strong><br>Establish the GH Working Group and charter, foundations &#x26; Requirements (Target: September 2025)</td><td><span data-option="RaF197Uk53QO">Completed</span></td></tr><tr><td><strong>M2: REPORT:</strong><br>Create, refine and publish the <a href="governance-health-wg-report.md">Governance Health Dashboard KPI</a> REPORT (Target EOY 2025)</td><td><span data-option="RaF197Uk53QO">Completed</span></td></tr><tr><td><strong>M3: Create Proposal Evaluation and define standards:</strong><br>Confirm Standards and Phase 2 Proposal</td><td><span data-option="FCDhoxxOT0Gv">Not Yet Started</span></td></tr><tr><td><p><strong>M4: Proposal Solicitation:</strong></p><p>Invite ecosystem teams to propose dashboard builds and assess their viability.<br></p></td><td><span data-option="FCDhoxxOT0Gv">Not Yet Started</span></td></tr><tr><td><strong>M5: Handover &#x26; 2026 Planning:</strong><br>Conclude with roadmap for the dashboard’s next development phase.</td><td><span data-option="FCDhoxxOT0Gv">Not Yet Started</span></td></tr><tr><td><strong>M6: Future improvements:</strong><br>Sharing knowledge, resources, evaluation and learnings</td><td><span data-option="FCDhoxxOT0Gv">Not Yet Started</span></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="528.85546875">Deliverables</th><th width="105.37890625">Status<select><option value="FCDhoxxOT0Gv" label="Not Yet Started" color="blue"></option><option value="f69cDmUXq78o" label="In Progress" color="blue"></option><option value="RaF197Uk53QO" label="Completed" color="blue"></option></select></th></tr></thead><tbody><tr><td><strong>M1: Foundations:</strong><br>Establish the GH Working Group and charter, foundations &#x26; Requirements (Target: September 2025)</td><td><span data-option="RaF197Uk53QO">Completed</span></td></tr><tr><td><strong>M2: REPORT:</strong><br>Create, refine and publish the <a href="governance-health-wg-kpi-report.md">Governance Health Dashboard KPI</a> REPORT (Target EOY 2025)</td><td><span data-option="RaF197Uk53QO">Completed</span></td></tr><tr><td><strong>M3: Create Proposal Evaluation and define standards:</strong><br>Confirm Standards and Phase 2 Proposal</td><td><span data-option="FCDhoxxOT0Gv">Not Yet Started</span></td></tr><tr><td><p><strong>M4: Proposal Solicitation:</strong></p><p>Invite ecosystem teams to propose dashboard builds and assess their viability.<br></p></td><td><span data-option="FCDhoxxOT0Gv">Not Yet Started</span></td></tr><tr><td><strong>M5: Handover &#x26; 2026 Planning:</strong><br>Conclude with roadmap for the dashboard’s next development phase.</td><td><span data-option="FCDhoxxOT0Gv">Not Yet Started</span></td></tr><tr><td><strong>M6: Future improvements:</strong><br>Sharing knowledge, resources, evaluation and learnings</td><td><span data-option="FCDhoxxOT0Gv">Not Yet Started</span></td></tr></tbody></table>
 
 ***
 
@@ -71,5 +69,5 @@ Regular meetings for this working group have concluded.
 Each Committee may freely establish working groups to study and address temporary work items.
 
 * Committees may invite any person or representative of an organization to participate in working groups.  Working groups are responsible to report back to their respective committee or subcommittee.
-* Relevant experts (legal, web3 governance, technical...) are advising this working group
-* Members of the community can also apply to become members of the constitution working group to provide expert inputs.
+* Relevant experts (legal, web3 governance, technical...) can advise working groups
+* Members of the community can also become members of working groups to provide expert inputs.
