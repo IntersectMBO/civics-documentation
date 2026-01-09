@@ -18,8 +18,7 @@
 | Takeshi Ohishi     | No,  Apologies | Member      | Y                 |
 | <p><br></p>        | <p><br></p>    | <p><br></p> | <p><br></p>       |
 
-\
-
+<br>
 
 ## Agenda 31.7.25
 
@@ -59,4 +58,4 @@
 | CC Election Enactment Strategy              | Thomas explained the timing for the CC update. To avoid conflicts with the ongoing treasury withdrawals, he has asked several large DReps to delay their votes to ensure the new CC is not enacted until the epoch boundary of 580/581.                                                                                                            | A strategy is in place to time the enactment of the new CC to prevent interference with other governance actions.                                                                  |
 | SPO Engagement for CC Vote                  | The committee discussed the importance of SPOs voting on the CC update. Nicolas noted an upcoming SPO community call and offered to attend to encourage participation. He also arranged for a notification to be sent via the SPO newsletter.                                                                                                      | Efforts are underway to mobilize SPOs to vote on the CC update governance action, including direct engagement and newsletters.                                                     |
 
-\
+<br>

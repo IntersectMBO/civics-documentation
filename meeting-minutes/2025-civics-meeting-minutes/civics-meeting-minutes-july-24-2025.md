@@ -63,4 +63,4 @@ Action Items
 | Social Media & Member Introductions         | Larisa introduced a new social media content scheduler. The first initiative is to post short introductions of each Civics Committee member on the committee's X (Twitter) channel.                                                                                                                                                          | All members were asked to provide a short bio for an "Introducing the Committee" social media campaign.                                                                                        |
 | Action Items & Closing                      | All members are to fill out their bios in the content scheduler by the next day. The new working groups will begin their work, with initial meetings scheduled.                                                                                                                                                                              | The meeting ended with clear next steps for both the social media campaign and the newly formed working groups.                                                                                |
 
-\
+<br>

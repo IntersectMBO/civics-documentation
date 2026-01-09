@@ -50,4 +50,4 @@ A.O.B. / Next Steps:
 * Additional points included ensuring that technical tasks do not create gatekeeping barriers.
 * The potential to engage Intersect’s legal department for incorporation support of grassroots initiatives was discussed.
 
-\
+<br>

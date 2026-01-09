@@ -23,8 +23,7 @@ Recording: [CIVICS Committee (Intersect) Mtg - 2025/08/14 13:56 BST - Recording]
 
 Transcript: [CIVICS Committee (Intersect) Mtg - 2025/08/14 13:56 BST - Transcript](https://docs.google.com/document/d/1Gd0o7ZIle7E2f8WHPyQjq7Xpyeks8FjumHSqyloXgHs/edit?usp=sharing)
 
-Chat Transcript: [Here\
-](https://drive.google.com/file/d/1Q8HY-Te2Mh732ch8DWYdgBFHfQAiW7Yk/view?usp=sharing)
+Chat Transcript: [Here<br>](https://drive.google.com/file/d/1Q8HY-Te2Mh732ch8DWYdgBFHfQAiW7Yk/view?usp=sharing)
 
 Agenda 14th.Aug.25
 
@@ -49,8 +48,7 @@ Agenda 14th.Aug.25
 * Invite Guests to X Space (Larisa & Nicolas): Larisa and Nicolas will invite knowledgeable community members to the X Space to help explain the voting process for SPOs.
 * Resume Governance Health WG Setup (Larisa): Larisa will resume the setup activities for the Governance Health working group, including scheduling the first meeting, now that members have returned from travel.
 * Provide Update on Member Status (Larisa): Larisa will update the committee on Alex's participation status once discussions with him have concluded.
-* Review Education WG Documents (Committee Members): Nana has updated the documentation for the Governance Education working group, which is now ready for review by other members.\
-
+* Review Education WG Documents (Committee Members): Nana has updated the documentation for the Governance Education working group, which is now ready for review by other members.<br>
 
 | Topic                                       | Discussion                                                                                                                                                                                                                                                                                                 | Notes                                                                                                                                                                              |
 | ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -64,4 +62,4 @@ Agenda 14th.Aug.25
 | CC Update Governance Action & SPO Voting    | Larisa highlighted the low SPO voting turnout for the "Update Constitutional Committee" action, which requires 51% approval from stake pools. The process is more complex for SPOs, often requiring them to use their cold keys.                                                                           | SPO voter turnout is critically low. The complex voting process for SPOs is a significant barrier.                                                                                 |
 | SPO Engagement Plan                         | To raise awareness and encourage voting, Nicolas and Larisa agreed to host an X (Twitter) Space next week. They plan to invite knowledgeable guests to explain the process and the benefits of using newer features like Catalyst keys to simplify voting.                                                 | An X Space will be hosted next Wednesday from the Civics X account to mobilize SPOs to vote.                                                                                       |
 
-\
+<br>

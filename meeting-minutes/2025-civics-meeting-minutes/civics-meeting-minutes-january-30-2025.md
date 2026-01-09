@@ -4,8 +4,7 @@ Welcome from the new Civics Committee Chair: [Jose Miguel De Gamboa](mailto:jmde
 
 * Thank you to Michael for his chairmanship in the past
 * The new chair’s operating principle is to gather the collective intelligence and facilitate the group forward.
-* Ask: For members to continue to be committed, engage and participate. There’s a lot coming up in governance.  We’ll need your participation and help.\
-
+* Ask: For members to continue to be committed, engage and participate. There’s a lot coming up in governance.  We’ll need your participation and help.<br>
 
 GovTool Budget Update
 
@@ -15,8 +14,7 @@ GovTool Budget Update
 * The working group defined the vision for 2030 and roadmap for 2025 and defined a budget for the 2025 roadmap and maintenance. This was reviewed in the meeting, as well as the proposed budget.&#x20;
 * Committee members requested that the budget be edited to include clear benefits, prioritization and to break out some line items into more detail.
 * There was discussion as to which committee this budget should be approved and overseen by.&#x20;
-* The CCC voted and approved to take on responsibility for this budget, with the understanding that technical support and oversight could be provided by the TSC.\
-
+* The CCC voted and approved to take on responsibility for this budget, with the understanding that technical support and oversight could be provided by the TSC.<br>
 
 Government Participation Special Interest Group (SIG) request
 
@@ -28,8 +26,7 @@ Government Participation Special Interest Group (SIG) request
 * Request from the SIG proposer: a dedicated Discord channel.
 * Informal support - for the CCC to know it exists and direct people to the SIG when we notice online conversations.
 * It was considered wither the SIG should report to the CCC or the ISC to better solve problems surfaced.
-* The CCC voted that they were happy to be the point of contact for the SIG.\
-
+* The CCC voted that they were happy to be the point of contact for the SIG.<br>
 
 Governance Support Working Group (WG) Update
 
@@ -48,8 +45,7 @@ Ratification Working Group (WG) Updates&#x20;
 
 * Constitution governance action is on-chain!!
 * The working group has been creating content and coordinating dissemination of it.
-* Educational content, media/images, translations etc.\
-
+* Educational content, media/images, translations etc.<br>
 
 CC Election WG
 

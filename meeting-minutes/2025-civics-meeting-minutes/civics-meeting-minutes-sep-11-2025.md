@@ -17,8 +17,7 @@
 | Takeshi Ohishi   | No         | Member    | Y                 | October 2025  |
 | Ryan Williams    | Yes        | Intersect | N                 | N/A           |
 
-\
-
+<br>
 
 Community/Other Attendees:
 
@@ -45,8 +44,7 @@ Chat Transcript: [Cardano Civics Committee Meeting - 2025/8/21 - Chat Transcript
 * Submit Member Bios (All Members): Committee members are asked again to submit their short bios to the content scheduler spreadsheet so Larisa can create "Meet the Members" posts for the Civics X account.
 * Hold Final CC Election WG Workshop (CC Election WG): The working group will hold its final workshop on September 29th to create a handover report and document recommendations for future CC elections.
 
-\
-
+<br>
 
 | Topic                                     | Discussion                                                                                                                                                                                                                                                                                                                              | Notes                                                                                                                                                                                                            |
 | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

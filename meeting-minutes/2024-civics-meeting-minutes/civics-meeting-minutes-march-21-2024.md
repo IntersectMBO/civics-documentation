@@ -16,8 +16,7 @@
   * It was noted that one of the unique decision making capabilities is for committees to use CIP-1694 to hold community votes if committee members need to make content decisions, and that the Intersect board can resolve structural issues
   * It was also noted that before holding broad elections, a code of conduct and recusal policy should be in place
 
-\
-
+<br>
 
 Constitution ratification WG charter review
 

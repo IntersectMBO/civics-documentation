@@ -52,11 +52,9 @@ The meeting was closed&#x20;
 * Governance Tooling WG Update carried forward&#x20;
 * CC members will review the draft document about the Civics Committee budget asynchronously and provide feedback.
 
-\
-
-
-\
-\
-
+<br>
 
 \
+<br>
+
+<br>

@@ -12,4 +12,4 @@ The CCC had a two day constitution drafting session, covering these topics as th
 
 The CCC also created a list of questions to ask during the Constitutional Workshops and identified all of the supporting content necessary for the community to participate in the workshops.
 
-\
+<br>

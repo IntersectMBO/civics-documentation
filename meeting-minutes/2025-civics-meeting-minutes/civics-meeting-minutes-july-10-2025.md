@@ -1,4 +1,4 @@
-# Civics Meeting Minutes July 7, 2025
+# Civics Meeting Minutes July 10, 2025
 
 Time: 12:00 UTC – 13:02 UTC\
 Location: Google Meet\
@@ -31,8 +31,7 @@ Taichi Yokoyama
 3. DRep Participation Analysis & Metadata Use
 4. Tools & Resources for Evaluating Governance Actions
 5. AOB & Next Steps\
-   \
-
+   <br>
 
 #### Minutes
 
@@ -47,8 +46,7 @@ A draft of the governance action document was shared, with only one credential h
 Chair introduced a draft roadmap document summarizing committee objectives and proposed workstreams for the remainder of 2025. Key focus areas include:
 
 * Fostering Governance Health: Developing a requirements document for a governance health dashboard.
-* Delivering Governance Education: Establishing a working group to support educational materials and outreach.\
-
+* Delivering Governance Education: Establishing a working group to support educational materials and outreach.<br>
 
 A third objective, setting up a new constitutional review committee, was deprioritized due to low participation from recent workshops.
 
@@ -77,11 +75,10 @@ The tool is designed to reduce friction when navigating governance proposals and
 * Committee members were asked to review the roadmap document before the next meeting.
 * A vote on roadmap approval will take place next week.
 * Members were encouraged to share resources and dashboards (e.g., the spreadsheet tool) within their communities.
-* Meeting closed with thanks and a reminder to prepare for the coming governance action submissions.\
-
+* Meeting closed with thanks and a reminder to prepare for the coming governance action submissions.<br>
 
 Meeting adjourned at: 13:02 UTC\
 Next meeting: Thursday, July 17, 2025 – 12:00 UTC
 
 \
-\
+<br>

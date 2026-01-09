@@ -71,4 +71,4 @@ Larisa: Civics Committee Secretary
 | Call for Working Group Leadership         | In the final minutes, members were encouraged to consider leading or participating in the newly formed working groups. Alex expressed tentative interest in leading the Governance Education group.                                                                                                               | The next step is to staff the working groups.                                                                                                                                      |
 
 \
-\
+<br>

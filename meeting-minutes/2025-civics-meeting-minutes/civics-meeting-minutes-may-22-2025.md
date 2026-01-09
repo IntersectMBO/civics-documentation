@@ -12,8 +12,7 @@
 * Gov Tools Discussion
 * Matters Arising
 * Next Steps\
-  \
-
+  <br>
 
 **Summary:**\
 **This meeting marked a formal handover from the outgoing to the incoming Civics Committee members. Departing members reflected on past challenges and accomplishments, while new members introduced themselves and outlined their aspirations. Core topics included governance tooling (Gov Tools), budget alignment, internal governance, and the importance of community communication and sustainability. Nicolas Cerny was nominated and accepted as interim representative to the Intersect Steering Committee pending the formal chair election.**
@@ -36,8 +35,7 @@ Discussion Points:
 * Key positives included philosophical depth, cross-cultural collaboration, and constitution drafting.
 * Difficulties included burnout, lack of hard power, and communication inefficiencies.
 * Suggestions for improvement included stronger community channels and earlier consultation.\
-  \
-
+  <br>
 
 **Civics Committee Focus Areas:**
 
@@ -48,22 +46,19 @@ Discussion Points:
       Oversight of governance tooling
 
 Committee was encouraged to revisit and validate these based on the evolving context.\
-\
-
+<br>
 
 Review of Charter & Mission:
 
 * &#x20;Recommendations were made that the committee revisit the charter and mission collaboratively.
 * Secretary confirmed both documents are outdated and ready for review.\
-  \
-
+  <br>
 
 Election of Chair:
 
 * The need to elect a chair was emphasized, particularly to attend Intersect Steering Committee (ISC) meetings.
 * Nicolas Cerny agreed to serve as interim representative until a formal election is held.\
-  \
-
+  <br>
 
 Working Groups Overview:
 
@@ -73,12 +68,10 @@ Current working groups include:
 * Governance Support WG
 * Governance Tools WG
 * Future Governance Workstreams WG\
-  \
-
+  <br>
 * Each group plays a role in developing tools, processes, and onboarding pathways.
 * Outgoing members reminded the committee it may create or dissolve working groups as needed.\
-  \
-
+  <br>
 
 Gov Tools Discussion:
 
@@ -86,8 +79,7 @@ Gov Tools Discussion:
 * The discussions emphasized the backend infrastructure, decentralization, and open-source nature.
 * Committee members expressed need for improved messaging and community education.\
   Discussion included sustainability, perceived cost, and options for a tiered funding proposal.\
-  \
-
+  <br>
 
 Matters Arising:
 
@@ -98,8 +90,7 @@ Two committee seats require clarification:
 * The group discussed whether to extend terms to one year or retain staggered ends.
 * Committee cadence was addressed (prior model: every 3 weeks).
 * Communication channels to be agreed upon (Discord, Telegram, etc.)\
-  \
-
+  <br>
 
 Next Steps:
 
@@ -111,12 +102,10 @@ Next Steps:
 
 Meeting Adjourned
 
-\
-
-
-\
-\
-
+<br>
 
 \
+<br>
+
 \
+<br>

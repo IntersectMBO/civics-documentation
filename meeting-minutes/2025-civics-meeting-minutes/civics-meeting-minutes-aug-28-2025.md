@@ -18,8 +18,7 @@
 | Dzubang Mermoz   | Yes/Part   | Member    | Y                 | April 2026    |
 | Gintama          | Yes/Part   | Observer  | N                 | \_            |
 
-\
-
+<br>
 
 &#x20;
 
@@ -27,8 +26,7 @@ Recording: [CIVICS Committee (Intersect) Mtg - 2025/08/28 14:00 BST - Recording]
 
 Transcript: [CIVICS Committee (Intersect) Mtg - 2025/08/28 14:00 BST - Transcript](https://docs.google.com/document/d/1Ao8JBwH80nJ5ey2opC4C7ziU2ruZ4l0KzYZRUvc3lTc/edit?usp=sharing)
 
-Chat Transcript: [Cardano Civics Committee Meeting - 2025/8/21 - Chat Transcript](https://drive.google.com/)\
-
+Chat Transcript: [Cardano Civics Committee Meeting - 2025/8/21 - Chat Transcript](https://drive.google.com/)<br>
 
 ### Agenda 28.Aug.25
 
@@ -50,8 +48,7 @@ Chat Transcript: [Cardano Civics Committee Meeting - 2025/8/21 - Chat Transcript
 * Committee Leadership: Create a poll in the committee's Discord channel to gather feedback from all members on potentially alternating the weekly meeting time to better suit different time zones.
 
 \
-\
-
+<br>
 
 | Topic                                          | Discussion                                                                                                                                                                                                                                                                                                                                                                                 | Notes                                                                                                                                                                                                                                                  |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -65,4 +62,4 @@ Chat Transcript: [Cardano Civics Committee Meeting - 2025/8/21 - Chat Transcript
 | 8. Member Offboarding Vote                     | Committee initiated a formal discussion to offboard absent members, citing the new dismissal policy. Someone has not attended a meeting since November 2024 and has not responded to any communications. The offboarding is necessary for security access and to ensure meeting quorum can be met.                                                                                         | A formal vote was required to proceed with the offboarding process.                                                                                                                                                                                    |
 | 9. Offboarding Vote Result                     | Larisa conducted a formal poll of the voting members present. The motion to begin the offboarding process for absent members was carried.                                                                                                                                                                                                                                                  | Decision: The vote passed (5 in favour, 1 against). The formal offboarding process will commence immediately.                                                                                                                                          |
 
-\
+<br>
