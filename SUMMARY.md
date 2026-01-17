@@ -5,7 +5,7 @@
 * [Cardano Civics Committee (CCC)](README.md)
 * [Committee Members](about/committee-members.md)
 * [Focus Areas](about/focus-areas-for-2024.md)
-* [Working Groups](about/working-groups/README.md)
+* [Civics Working Groups](about/working-groups/README.md)
   * [Governance Health WG KPI Report](about/working-groups/governance-health-wg-kpi-report.md)
 * [How to Join or Contact Us](about/how-to-contact-us.md)
 * [Archived Pages](about/archived-pages/README.md)
