@@ -42,7 +42,7 @@ To design a comprehensive Constitution Amendment Process (CAP) that is transpare
 
 ### **Meetings**
 
-Regular meetings for this working group are **Thursdays, 9:00am UTC**.
+Regular meetings for this working group are [**Thursdays, 9:00am UTC**.](https://meet.google.com/vtn-tiwu-ixo?authuser=0) (Open to all)
 
 ### **Deliverables**
 
