@@ -15,6 +15,15 @@
 | Dzubang Mermoz    | Yes        | Member    | Y                 | April 2026    |
 | Randy             | Yes        | Member    | Y                 | April 2026    |
 
+### Sources
+
+\
+[CIVICS Committee (Intersect) Meeting - 2026/04/16 13:50 BST - Recording](https://drive.google.com/file/d/10ltD7FSA2DzA6M6eoRF8y74Mn5CJkUji/view?usp=drive_web)
+
+[CIVICS Committee (Intersect) Meeting - 2026/04/16 13:50 BST - Notes by Gemini](https://docs.google.com/document/d/1jlX_JQNQBaO19OiNyCNAxQ3XiYjo-7gpD6OqwI_s2to/edit?tab=t.jskjjwiv2vv8)
+
+<br>
+
 ## Agenda Items
 
 * Update from the Intersect Steering Committee (ISC)
