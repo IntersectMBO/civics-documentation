@@ -67,6 +67,7 @@
   * [Civics Committee Minutes 26th March 2026](meeting-minutes/2026-civics-meeting-minutes/civics-committee-minutes-26th-march-2026.md)
   * [Civics Committee Minutes 9th April 2026](meeting-minutes/2026-civics-meeting-minutes/civics-committee-minutes-9th-april-2026.md)
   * [Civics Committee Minutes 16th April 2026](meeting-minutes/2026-civics-meeting-minutes/civics-committee-minutes-16th-april-2026.md)
+  * [Civics Committee Minutes 23rd April 2026](meeting-minutes/2026-civics-meeting-minutes/civics-committee-minutes-23rd-april-2026.md)
 
 ## Constitutional Committee Election
 
