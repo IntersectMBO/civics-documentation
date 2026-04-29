@@ -107,9 +107,9 @@ The election follows a structured sequence of phases:
 
 While exact dates may adjust slightly, the intended timeline is:
 
-* **May 1 – May 31**\
+* **May 8 – June 7**\
   Candidate registration
-* **June 1 – June 13**\
+* **June 7 – June 13**\
   Promotion and community engagement
 * **June 13 – July 13**\
   Hydra voting period

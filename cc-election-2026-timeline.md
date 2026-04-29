@@ -11,7 +11,7 @@ description: >-
 
 ### Candidate Registration
 
-**May 1st to May 31st, 2026**
+**May 8 to June 7, 2026**
 
 During this phase, candidates may formally submit their applications.
 
@@ -25,7 +25,7 @@ Candidate profiles become visible once approved and can be edited until the voti
 
 ### Candidate Promotion & Community Awareness
 
-**June 1st to June 13th, 2026**
+**June 7 to June 13, 2026**
 
 This phase is dedicated to candidate visibility and community engagement.
 
@@ -40,7 +40,7 @@ The goal is to ensure DReps have sufficient information to make informed decisio
 ### Voting (Hydra Platform)
 
 **Voting period:**\
-June 13th to July 13th, 2026
+June 13 to July 13, 2026
 
 During this phase:
 
@@ -52,7 +52,7 @@ During this phase:
 
 #### Voting Power Snapshot
 
-**July 13th, 2026**
+**July 13, 2026**
 
 A snapshot of delegated stake is taken at the end of the voting period.
 
@@ -62,7 +62,7 @@ This snapshot determines the final voting weight used to calculate results.
 
 #### Voting Audit
 
-**July 14th to July 16th, 2026**
+**July 14 to July 16, 2026**
 
 An independent audit is conducted to verify the integrity and accuracy of the voting results.
 
@@ -70,7 +70,7 @@ An independent audit is conducted to verify the integrity and accuracy of the vo
 
 #### Final Results
 
-**July 16th, 2026**
+**July 16, 2026**
 
 Audited results are published.
 
