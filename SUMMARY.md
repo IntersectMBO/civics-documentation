@@ -7,6 +7,7 @@
 * [Focus Areas](about/focus-areas-for-2024.md)
 * [Civics Working Groups](about/working-groups/README.md)
   * [Governance Health WG KPI Report](about/working-groups/governance-health-wg-kpi-report.md)
+  * [Constitutional Amendment Process WG Report](about/working-groups/constitutional-amendment-process-wg-report.md)
 * [How to Join or Contact Us](about/how-to-contact-us.md)
 * [Archived Pages](about/archived-pages/README.md)
   * [Civics Committee Budget Guidance](about/archived-pages/civics-committee-budget-guidance.md)
