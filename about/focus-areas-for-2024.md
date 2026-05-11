@@ -1,12 +1,18 @@
 # Focus Areas
 
-**2025 (so far)**
+**2026 (So far)**
+
+* Enable the Constitutional Committee Elections
+* Publish Governance Health KPI Report
+* Enable a Constitutional Amendment Process
+
+**2025**&#x20;
 
 * Constitution ratification, and future Constitutional amendments
 * Fostering Governance Health, and governance education
 * Civics input to the Cardano budget for Cardano Governance
 * Enable the Constitutional Committee Elections
-* DRep compensation model
+* Enable Constitutional Committee Snap Elections
 
 **2024**
 
