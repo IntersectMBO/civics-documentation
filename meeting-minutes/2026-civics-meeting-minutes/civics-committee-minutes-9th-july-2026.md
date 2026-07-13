@@ -4,18 +4,7 @@
 
 <br>
 
-| Name                  | Attendance | Role      | Voting Seat (Y/N) | Election Term |
-| --------------------- | ---------- | --------- | ----------------- | ------------- |
-| Nicolas Cerny         | Yes        | Chair     | Y                 | April 2028    |
-| Larisa Mcfarlane      | Yes        | Intersect | N                 | N/A           |
-| Megan Dyamond         | Yes        | Member    | Y                 | October 2026  |
-| Thomas Lindseth       | Yes        | Secretary | N                 | N/A           |
-| Ken-Erik Ølmheim      | Yes        | Member    | Y                 | April 2028    |
-| Simon Fleck           | Yes        | Member    | Y                 | October 2026  |
-| Ian Hartwell          | Yes        | Member    | Y                 | October 2026  |
-| Musa Ridwan Itopa     | Yes        | Member    | Y                 | October 2026  |
-| Beatrice Anihiri      | Yes        | Member    | Y                 | April 2028    |
-| Jose Miguel De Gamboa | Yes        | Member    | Y                 | April 2028    |
+<table data-header-hidden data-search="false"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Name</td><td>Attendance</td><td>Role</td><td>Voting Seat (Y/N)</td><td>Election Term</td></tr><tr><td>Nicolas Cerny</td><td>Yes</td><td>Chair</td><td>Y</td><td>April 2028</td></tr><tr><td>Larisa Mcfarlane</td><td>Yes</td><td>Intersect</td><td>N</td><td>N/A</td></tr><tr><td>Megan Dyamond</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Thomas Lindseth</td><td>Yes</td><td>Secretary</td><td>N</td><td>N/A</td></tr><tr><td>Ken-Erik Ølmheim</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2028</td></tr><tr><td>Simon Fleck</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Ian Hartwell</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Musa Ridwan Itopa</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Beatrice Anihiri</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2028</td></tr><tr><td>Jose Miguel De Gamboa</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2028</td></tr></tbody></table>
 
 \
 <br>
