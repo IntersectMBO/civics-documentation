@@ -14,6 +14,7 @@
 | Musa Ridwan Itopa     | No         | Member    | Y                 | October 2026  |
 | Beatrice Anihiri      | Yes        | Member    | Y                 | April 2028    |
 | Jose Miguel De Gamboa | Yes        | Member    | Y                 | April 2028    |
+| Nana Safo             | Yes        | Member    | Y                 | April 2028    |
 
 #### Sources
 

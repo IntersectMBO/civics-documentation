@@ -11,6 +11,7 @@
 | Ken-Erik Ølmheim  | Yes        | Member    | Y                 | April 2026    |
 | Simon Fleck       | Yes        | Member    | Y                 | October 2026  |
 | Ian Hartwell      | Yes        | Member    | Y                 | October 2026  |
+| Nana Safo         | Yes        | Member    | Y                 | April 2026    |
 | Musa Ridwan Itopa | Yes        | Member    | Y                 | October 2026  |
 | Dzubang Mermoz    | Yes        | Member    | Y                 | April 2026    |
 | Randy             | Yes        | Member    | Y                 | April 2026    |
