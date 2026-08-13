@@ -83,3 +83,4 @@
   * [Civics Committee Minutes 23rd July 2026](meeting-minutes/2026-civics-meeting-minutes/civics-committee-minutes-23rd-july-2026.md)
   * [Civics Committee Minutes 30th July 2026](meeting-minutes/2026-civics-meeting-minutes/civics-committee-minutes-30th-july-2026.md)
   * [Civics Committee Minutes 6th August  2026](meeting-minutes/2026-civics-meeting-minutes/civics-committee-minutes-6th-august-2026.md)
+  * [Civics Commitee Minutes 13th August 2026](meeting-minutes/2026-civics-meeting-minutes/civics-commitee-minutes-13th-august-2026.md)
