@@ -8,6 +8,7 @@
 * [Civics Working Groups](about/working-groups/README.md)
   * [Governance Health WG KPI Report](about/working-groups/governance-health-wg-kpi-report.md)
   * [Constitutional Amendment Process WG Report](about/working-groups/constitutional-amendment-process-wg-report.md)
+  * [CAP deliberables](about/working-groups/cap-deliberables.md)
 * [How to Join or Contact Us](about/how-to-contact-us.md)
 * [Archived Pages](about/archived-pages/README.md)
   * [Civics Committee Budget Guidance](about/archived-pages/civics-committee-budget-guidance.md)
@@ -84,3 +85,5 @@
   * [Civics Committee Minutes 30th July 2026](meeting-minutes/2026-civics-meeting-minutes/civics-committee-minutes-30th-july-2026.md)
   * [Civics Committee Minutes 6th August  2026](meeting-minutes/2026-civics-meeting-minutes/civics-committee-minutes-6th-august-2026.md)
   * [Civics Commitee Minutes 13th August 2026](meeting-minutes/2026-civics-meeting-minutes/civics-commitee-minutes-13th-august-2026.md)
+  * [Civics Committee Minutes 20th August 2026](meeting-minutes/2026-civics-meeting-minutes/civics-committee-minutes-20th-august-2026.md)
+  * [Civics Committee Minutes 27th August 2026](meeting-minutes/2026-civics-meeting-minutes/civics-committee-minutes-27th-august-2026.md)
