@@ -15,4 +15,5 @@ Phase 2 also establishes recommended consultation periods based on the type of a
 With these components now implemented, the Working Group considers the Phase 2 mandate complete. The portal will continue through its alpha period, during which feedback and practical experience will inform future improvements. The report identifies areas including accessibility and translations, notifications, UI improvements, handling overlapping proposals, and refinements to editor and administrator roles as potential areas for future work.
 
 **Phase 2 Report:**\
-[Constitutional Amendment Process (CAP) - Phase 2 Deliverable](https://docs.google.com/document/d/1yu5Szh6P8sMYo74oomemon-UAEcoJ1IU6uJEEHVPfI/edit?usp=sharing\&utm_source=chatgpt.com)
+[Constitutional Amendment Process (CAP) - Phase 2 Deliverable](https://docs.google.com/document/d/1yu5Szh6P8sMYo74oomemon-UAEcoJ1IU6uJEEHVPfIY/edit?tab=t.0)
+
