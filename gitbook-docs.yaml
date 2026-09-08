@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Civics Committee
+  structure:
+    - type: space
+      key: space-1
+      title: Intersect - Civics Committee
+      path: civics-committee
+      default: true
+      content:
+        directory: ./intersect-civics-committee
