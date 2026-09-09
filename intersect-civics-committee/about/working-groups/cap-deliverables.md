@@ -1,4 +1,4 @@
-# CAP deliberables
+# CAP deliverables
 
 CAP Phase 2
 
@@ -8,7 +8,7 @@ The Phase 2 deliverable documents the complete amendment lifecycle, from draftin
 
 A key principle of the process is that authors retain ownership of their proposals. Community members can participate through public comments, while editors provide structured suggestions without being able to directly alter an author's work. The process also introduces defined lifecycle states and a permanent, hash-chained version history, providing a transparent record of how each proposal develops.
 
-The CAP portal is open source and uses open data formats and a public API. Proposals, comments, versions and audit events can be publicly inspected, allowing the process to be independently verified, mirrored or integrated into other tools.
+The [CAP portal](https://cap.intersectmbo.org/) is open source and uses open data formats and a public API. Proposals, comments, versions and audit events can be publicly inspected, allowing the process to be independently verified, mirrored or integrated into other tools.
 
 Phase 2 also establishes recommended consultation periods based on the type of amendment, ranging from 14 days for editorial changes to 90 days for technical amendments. The process remains voluntary, allowing authors to determine when their proposal is ready to proceed.
 
