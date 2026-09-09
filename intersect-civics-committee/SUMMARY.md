@@ -8,7 +8,7 @@
 * [Civics Working Groups](about/working-groups/README.md)
   * [Governance Health WG KPI Report](about/working-groups/governance-health-wg-kpi-report.md)
   * [Constitutional Amendment Process WG Report](about/working-groups/constitutional-amendment-process-wg-report.md)
-  * [CAP deliberables](about/working-groups/cap-deliberables.md)
+  * [CAP deliverables](about/working-groups/cap-deliverables.md)
 * [How to Join or Contact Us](about/how-to-contact-us.md)
 * [Archived Pages](about/archived-pages/README.md)
   * [Civics Committee Budget Guidance](about/archived-pages/civics-committee-budget-guidance.md)
