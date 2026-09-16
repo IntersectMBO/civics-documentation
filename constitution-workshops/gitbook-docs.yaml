@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Constitution Workshops
+  structure:
+    - type: space
+      key: space-1
+      title: 2024 Constitutional Consultation
+      path: constitution-workshops
+      default: true
+      content:
+        directory: ./constitution-workshops
