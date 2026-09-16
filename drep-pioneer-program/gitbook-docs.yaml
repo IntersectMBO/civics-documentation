@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: DRep Pioneer Program
+  structure:
+    - type: space
+      key: space-1
+      title: DRep Pioneer Program
+      path: drep-pioneer-program
+      default: true
+      content:
+        directory: ./drep-pioneer-program
