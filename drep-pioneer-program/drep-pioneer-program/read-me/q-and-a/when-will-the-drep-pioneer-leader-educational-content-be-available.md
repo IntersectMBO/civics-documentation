@@ -1,0 +1,3 @@
+# When will the DRep Pioneer leader educational content be available?
+
+The DRep Workshop Leaders will commence delivering training sessions upon the completion of the courses. The educational content, meticulously crafted by the Pioneer Leaders, will be made available free of charge. Moreover, the materials aim to be versatile, enabling potential DReps to self-train and grasp concepts intuitively. Information will be shared through platforms like the Intersect Knowledgebase and SanchoNet, ensuring accessibility to all interested individuals. We will publish the details of the courses as the details become available so watch this space!
