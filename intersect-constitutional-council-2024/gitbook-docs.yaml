@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Constitutional Council of Intersect
+  structure:
+    - type: space
+      key: space-1
+      title: Constitutional Council of Intersect
+      path: constitutional-council-of-intersect
+      default: true
+      content:
+        directory: ./constitutional-council-of-intersect
