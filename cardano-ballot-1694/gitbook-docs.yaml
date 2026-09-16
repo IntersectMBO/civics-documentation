@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Cardano Ballot - 1694 Guides
+  structure:
+    - type: space
+      key: space-1
+      title: Cardano Ballot - 1694 Guides
+      path: cardano-ballot-1694-guides
+      default: true
+      content:
+        directory: ./cardano-ballot-1694-guides
