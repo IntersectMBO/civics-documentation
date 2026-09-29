@@ -4,7 +4,7 @@ The Cardano Constitution can be changed. Until 2026 there was no agreed way to d
 
 The right to amend was always there, but a right without a process is a theory. Without an agreed method for proposing, debating and refining changes, nothing stood between the Constitution and a rushed amendment that went straight on-chain with no scrutiny, or one drafted by a well-resourced few that the wider community never had a real chance to read.
 
-The Civics Committee established a working group in [September 2025](../meeting-minutes/2025-civics-meeting-minutes/civics-meeting-minutes-sep-11-2025.md) to close that gap. The result is a documented process and a live portal.
+The Civics Committee established a working group in September 2025 to close that gap. The result is a documented process and a live portal.
 
 [**Open the CAP Portal**](https://cap.intersectmbo.org/) to read proposals, submit one, or take part in a consultation. Guides, FAQs and step-by-step instructions all live there.
 
@@ -39,13 +39,13 @@ The Civics Committee established a working group in [September 2025](../meeting-
 
 The design work behind the process, and the source material for anyone who wants to scrutinise it.
 
-| Document                                                                                                                          | What it is                                                                                                                                                                                                                          |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Phase 1 Requirements Document](https://docs.google.com/document/d/1BvTW5LlFezNXG5agxZ6Gi35f-3Ma_mzlVEk8aGmu0wE/edit?usp=sharing) | The nine principles any acceptable amendment process must satisfy, plus the operational and technical constraints. Approved [4 December 2025.](../meeting-minutes/2025-civics-meeting-minutes/civics-meeting-minutes-dec-4-2025.md) |
-| [Phase 2 Deliverables](https://docs.google.com/document/d/1yu5Szh6P8sMYo74oomemon-UAEcoJ1IU6uJEEHVPfIY/edit?usp=sharing)          | The full process design: lifecycle, consultation cycles, editorial review, role definitions, ratification handover. Approved [27 August 2026.](../meeting-minutes/2026-civics-meeting-minutes/civics-minutes-27-aug-26.md)          |
-| [Working Group Charter v2.0](https://docs.google.com/document/d/1iSrvuWTQGOlQYIq536huYDwM67GuFTrqQEilIi2pE70/edit?usp=sharing)    | The group's current mandate, superseding [v1.0](https://docs.google.com/document/d/1yiU8E6x2svg5ZjsBtt39DN-j8e7eI-K1_VeMUG10Uzc/edit?usp=sharing).                                                                                  |
-| [Meeting transcripts](https://drive.google.com/drive/folders/1oILReUq36yM3J-eYABr_9dY9R3l3heOJ?usp=sharing)                       | Every working group session, published.                                                                                                                                                                                             |
-| [Workshop materials](https://drive.google.com/drive/folders/1j_fmp8fShyeL10LnPh0L8rkjYgk6q4Sh?usp=sharing)                        | Including the Day Zero workshop in Berlin, the first public test of the concepts.                                                                                                                                                   |
+| Document                                                                                                                          | What it is                                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Phase 1 Requirements Document](https://docs.google.com/document/d/1BvTW5LlFezNXG5agxZ6Gi35f-3Ma_mzlVEk8aGmu0wE/edit?usp=sharing) | The nine principles any acceptable amendment process must satisfy, plus the operational and technical constraints. Approved 4 December 2025.       |
+| [Phase 2 Deliverables](https://docs.google.com/document/d/1yu5Szh6P8sMYo74oomemon-UAEcoJ1IU6uJEEHVPfIY/edit?usp=sharing)          | The full process design: lifecycle, consultation cycles, editorial review, role definitions, ratification handover. Approved 27 August 2026.       |
+| [Working Group Charter v2.0](https://docs.google.com/document/d/1iSrvuWTQGOlQYIq536huYDwM67GuFTrqQEilIi2pE70/edit?usp=sharing)    | The group's current mandate, superseding [v1.0](https://docs.google.com/document/d/1yiU8E6x2svg5ZjsBtt39DN-j8e7eI-K1_VeMUG10Uzc/edit?usp=sharing). |
+| [Meeting transcripts](https://drive.google.com/drive/folders/1oILReUq36yM3J-eYABr_9dY9R3l3heOJ?usp=sharing)                       | Every working group session, published.                                                                                                            |
+| [Workshop materials](https://drive.google.com/drive/folders/1j_fmp8fShyeL10LnPh0L8rkjYgk6q4Sh?usp=sharing)                        | Including the Day Zero workshop in Berlin, the first public test of the concepts.                                                                  |
 
 ***
 

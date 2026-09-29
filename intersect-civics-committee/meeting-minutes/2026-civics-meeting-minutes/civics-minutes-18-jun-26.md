@@ -1,4 +1,6 @@
-# Civics Committee Minutes 18th June 2026
+# Civics Minutes 18 Jun '26
+
+## Civics Minutes 18 Jun '26
 
 **Attendees**
 
@@ -15,8 +17,6 @@
 | Beatrice Anihiri      | Yes        | Member    | Y                 | April 2028    |
 | Jose Miguel De Gamboa | Yes        | Member    | Y                 | April 2028    |
 | Nana Safo             | Yes        | Member    | Y                 | April 2028    |
-
-
 
 **Sources**\
 [**CIVICS Committee (Intersect) Meeting - 2026/06/18 14:57 CEST - Recording**](https://drive.google.com/file/d/13NFQd_I8kEyDNkEoL1orsyhzEP5sUe7i/view)\

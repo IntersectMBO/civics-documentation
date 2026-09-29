@@ -1,8 +1,6 @@
 # Civics Minutes 24 Sep '26
 
-<br>
-
-#### Attendance
+### Attendance
 
 | Name                  | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | --------------------- | ---------- | --------- | ----------------- | ------------- |
@@ -18,20 +16,20 @@
 | Jose Miguel De Gamboa | Yes        | Member    | Y                 | April 2028    |
 | Nana Safo             | No         | Member    | Y                 | April 2028    |
 
-#### Sources
+### Sources
 
 [CIVICS Committee (Intersect) Meeting - 2026/09/24 14:57 CEST - Notes by Gemini](https://docs.google.com/document/d/1RLFin411jDS2XkfJTikKArDT4UaeHYVmcdMDtJA78Og/edit?usp=sharing)
 
 [CIVICS Committee (Intersect) Meeting - 2026/09/24 14:57 CEST - Recording](https://drive.google.com/file/d/1HorNqWGD230dQVnX4h1HNGiGrQbYq8dW/view?usp=sharing)
 
-#### Agenda Items
+### Agenda Items
 
 * Intersect Board Election Reminders & Voting Phase Status
 * Q4 Plan Presentation Schedule for ISC & Intersect Board Review
 * CC Compensation and reimbursement Framework
 * Governance Incentive Roadmap
 
-#### Decisions/Actions
+### Decisions/Actions
 
 **Decisions Made**
 
@@ -50,9 +48,7 @@
 * TL: Update the Q3 Civics achievements document to incorporate missing items noted in internal committee communications.
 * The Group: Complete high-level milestones and desired end-state descriptions in the shared 2030 governance roadmap lane documents.
 
-
-
-#### Topic Notes
+### Topic Notes
 
 | Topic                            | Discussion                                                                                                                                                             | Notes                                                                                                |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |

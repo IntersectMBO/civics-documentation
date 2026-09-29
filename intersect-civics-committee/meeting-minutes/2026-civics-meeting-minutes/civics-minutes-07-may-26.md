@@ -1,6 +1,6 @@
-# Civics Commitee Minutes 7th May 2026
+# Civics Minutes 07 May '26
 
-Attendees
+### Attendees
 
 | Name              | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | ----------------- | ---------- | --------- | ----------------- | ------------- |
@@ -18,7 +18,7 @@ Attendees
 
 <br>
 
-#### Sources
+### Sources
 
 [CIVICS Committee (Intersect) Meeting - 2026/05/07 14:00 BST - Transcript](https://docs.google.com/document/d/13rMYdIy-LLlyPEx9iegjOS6Z8Yd8__pBiCb6dllEk8A/edit?tab=t.0#heading=h.2mf98yssg356)
 
@@ -26,46 +26,32 @@ Attendees
 
 <br>
 
-#### Agenda Items
+### Agenda Items
 
-* Committee Election Results and Onboarding\
-  <br>
-* Update from the Intersect Steering Committee (ISC)\
-  <br>
-* Working Group Updates: CAP and Governance Incentives\
-  <br>
-* Constitutional Committee (CC) Election Update\
-  <br>
-* Civics Committee Budget Proposal Submission\
-  <br>
-* Secretary Role Handover\
-  <br>
+* Committee Election Results and Onboarding\\<br>
+* Update from the Intersect Steering Committee (ISC)\\<br>
+* Working Group Updates: CAP and Governance Incentives\\<br>
+* Constitutional Committee (CC) Election Update\\<br>
+* Civics Committee Budget Proposal Submission\\<br>
+* Secretary Role Handover\\<br>
 
-#### Decisions/Actions
+### Decisions/Actions
 
-**Decisions Made**
+#### Decisions Made
 
-* Election Outcomes: The committee confirmed the election of Beatatrice Anihiri and Jose Miguel de Gambo, along with the re-election of Ken-Erik Ølmheim, Nana Safo, and Nicolas Cerny .\
-  <br>
-* Budget Strategy: The committee has finalized and submitted its budget proposal, prioritizing governance education infrastructure as the first work package .\
-  <br>
-* Secretary Transition: Larisa Mcfarlane will step down as Secretary due to additional responsibilities at Intersect, with Thomas Lindseth officially taking over the role for the new term.\
-  <br>
-* Onboarding Schedule: New members will join meetings starting next week, with general onboarding sessions scheduled for May 19th and 21st .\
-  <br>
+* Election Outcomes: The committee confirmed the election of Beatatrice Anihiri and Jose Miguel de Gambo, along with the re-election of Ken-Erik Ølmheim, Nana Safo, and Nicolas Cerny .\\<br>
+* Budget Strategy: The committee has finalized and submitted its budget proposal, prioritizing governance education infrastructure as the first work package .\\<br>
+* Secretary Transition: Larisa Mcfarlane will step down as Secretary due to additional responsibilities at Intersect, with Thomas Lindseth officially taking over the role for the new term.\\<br>
+* Onboarding Schedule: New members will join meetings starting next week, with general onboarding sessions scheduled for May 19th and 21st .\\<br>
 
-**Action Items**
+#### Action Items
 
-* Civics Committee Members: Test the CAP tool in the test environment, specifically using various devices to identify edge cases, and report issues via the "ladybug" icon .\
-  <br>
-* NC: Engage with DREPs to encourage review and engagement with the committee's budget proposal.\
-  <br>
-* S (Seomon): Investigate the new proposal from IO research regarding governance incentives for potential collaboration .\
-  <br>
-* TL: Open registration for the Constitutional Committee (CC) election on May 8th.\
-  <br>
+* Civics Committee Members: Test the CAP tool in the test environment, specifically using various devices to identify edge cases, and report issues via the "ladybug" icon .\\<br>
+* NC: Engage with DREPs to encourage review and engagement with the committee's budget proposal.\\<br>
+* S (Seomon): Investigate the new proposal from IO research regarding governance incentives for potential collaboration .\\<br>
+* TL: Open registration for the Constitutional Committee (CC) election on May 8th.\\<br>
 
-#### Topic Notes
+### Topic Notes
 
 | Topic                    | Discussion                                                                                                                                                                            | Notes                                                                                                          |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |

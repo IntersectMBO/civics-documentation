@@ -8,9 +8,9 @@ The Civics committee recommended lowering the floor to five, so that losing one 
 
 ### What Civics did
 
-The change began as a recommendation from the Parameter Committee and the Technical Steering Committee. Civics evaluated it and reached consensus to support it on [19 March 2026](../meeting-minutes/2026-civics-meeting-minutes/civics-minutes-19-mar-26.md), with the understanding that the desired working size of the committee should remain seven or more.
+The change began as a recommendation from the Parameter Committee and the Technical Steering Committee. Civics evaluated it and reached consensus to support it on 19 March 2026, with the understanding that the desired working size of the committee should remain seven or more.
 
-Civics then drafted a formal recommendation to the TSC to submit the parameter change as soon as possible ([9 April 2026](../meeting-minutes/2026-civics-meeting-minutes/civics-minutes-09-apr-26.md)). Submission was gated on the Plutus cost model update moving through the network first, which pushed the timing back through May ([7 May](../meeting-minutes/2026-civics-meeting-minutes/civics-minutes-07-may-26.md), [14 May](../meeting-minutes/2026-civics-meeting-minutes/civics-minutes-14-may-26.md) 2026).
+Civics then drafted a formal recommendation to the TSC to submit the parameter change as soon as possible (9 April 2026). Submission was gated on the Plutus cost model update moving through the network first, which pushed the timing back through May (7 May, 14 May 2026).
 
 The on-chain action needed 75% approval to pass, and Civics tracked and promoted it through the voting window to enactment.
 

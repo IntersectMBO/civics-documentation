@@ -1,6 +1,6 @@
-# Civics Committee Minutes 11th June 2026
+# Civics Minutes 11 Jun '26
 
-#### Attendees
+### Attendees
 
 | Name                  | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | --------------------- | ---------- | --------- | ----------------- | ------------- |
@@ -16,13 +16,13 @@
 | Jose Miguel De Gamboa | Yes        | Member    | Y                 | April 2028    |
 | Nana Safo             | Yes        | Member    | Y                 | April 2028    |
 
-#### Sources
+### Sources
 
 [CIVICS Committee (Intersect) Meeting - 2026/06/11 14:57 CEST - Recording](https://drive.google.com/file/d/15l9zB3aeH1JBhIt_Yyfcqs_FIlZx2a9S/view)
 
 [CIVICS Committee (Intersect) Meeting - 2026/06/11 14:57 CEST - Notes by Gemini](https://docs.google.com/document/d/1Qsl2p-meo7U51yaOPyY2hwmZJu4tyuxPoFIfFXHhGDY/edit?tab=t.e5gzp3dprqo7)
 
-#### Agenda Items
+### Agenda Items
 
 * Intersect Steering Committee (ISC) and Service Reward Policy Updates
 * CAP Working Group: Phase Transition Vote
@@ -30,7 +30,7 @@
 * Code of Conduct & Minimum Viable Compensation Framework for the CC
 * Governance Stakeholder Incentivization Models (Long-Term vs. Short-Term)
 
-#### Decisions/Actions
+### Decisions/Actions
 
 **Decisions Made**
 
@@ -47,7 +47,7 @@
 * S (Seomon): Incorporate IUR peer feedback to condense the core governance stake incentivization framework ahead of its presentation slot next week .
 * TL: Maintain open commenting access on the temporary 75 million ADA stake pool loan proposal to gather detailed risk assessments across the channel .
 
-#### Topic Notes
+### Topic Notes
 
 | Topic                     | Discussion                                                                                                                                                                                    | Notes                                                                                                             |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |

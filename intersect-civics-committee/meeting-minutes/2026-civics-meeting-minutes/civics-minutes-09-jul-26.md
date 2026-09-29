@@ -1,22 +1,21 @@
-# Civics Committee Minutes 9th July 2026
+# Civics Minutes 09 Jul '26
 
-#### Attendees
+### Attendees
 
 <br>
 
-<table data-header-hidden data-search="false"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Name</td><td>Attendance</td><td>Role</td><td>Voting Seat (Y/N)</td><td>Election Term</td></tr><tr><td>Nicolas Cerny</td><td>Yes</td><td>Chair</td><td>Y</td><td>April 2028</td></tr><tr><td>Larisa Mcfarlane</td><td>Yes</td><td>Intersect</td><td>N</td><td>N/A</td></tr><tr><td>Megan Dyamond</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Thomas Lindseth</td><td>Yes</td><td>Secretary</td><td>N</td><td>N/A</td></tr><tr><td>Ken-Erik Ølmheim</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2028</td></tr><tr><td>Simon Fleck</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Ian Hartwell</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Musa Ridwan Itopa</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Beatrice Anihiri</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2028</td></tr><tr><td>Jose Miguel De Gamboa</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2028</td></tr><tr><td>Nana Safo</td><td>Yes</td><td>Member</td><td>Y </td><td>2028</td></tr></tbody></table>
+<table data-header-hidden data-search="false"><thead><tr><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Name</td><td>Attendance</td><td>Role</td><td>Voting Seat (Y/N)</td><td>Election Term</td></tr><tr><td>Nicolas Cerny</td><td>Yes</td><td>Chair</td><td>Y</td><td>April 2028</td></tr><tr><td>Larisa Mcfarlane</td><td>Yes</td><td>Intersect</td><td>N</td><td>N/A</td></tr><tr><td>Megan Dyamond</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Thomas Lindseth</td><td>Yes</td><td>Secretary</td><td>N</td><td>N/A</td></tr><tr><td>Ken-Erik Ølmheim</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2028</td></tr><tr><td>Simon Fleck</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Ian Hartwell</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Musa Ridwan Itopa</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Beatrice Anihiri</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2028</td></tr><tr><td>Jose Miguel De Gamboa</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2028</td></tr><tr><td>Nana Safo</td><td>Yes</td><td>Member</td><td>Y</td><td>2028</td></tr></tbody></table>
 
-\
-<br>
+\\<br>
 
-#### Agenda Items
+### Agenda Items
 
 * Intersect Steering Committee (ISC) and Board Election Requirements
 * Constitutional Committee (CC) Election Hydra Blockers
 * Working Group Progress: CAP Alpha Launch and Guides
 * Technical Constitutional Amendment Strategy for Ouroboros Leios
 
-#### Decisions/Actions
+### Decisions/Actions
 
 **Decisions Made**
 
@@ -36,7 +35,7 @@
 * KE & Carlos Lopez de Lara: Sync offline to finalize deployment strategy and address lingering governance concerns ahead of the targeted hard fork timeline.
 * The Group: Access the Intersect member dashboard area to study the updated bylaws texts and cast ballots in the active vote event.
 
-#### Topic Notes
+### Topic Notes
 
 <br>
 

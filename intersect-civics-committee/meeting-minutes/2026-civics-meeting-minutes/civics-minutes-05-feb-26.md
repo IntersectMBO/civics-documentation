@@ -1,17 +1,15 @@
-# Civics Meeting Minutes 5th Feb 2026
+# Civics Minutes 05 Feb '26
 
-Feb 5, 2026 | Civics Committee
+### Attendees:
 
-## Attendees:&#x20;
-
-<table data-header-hidden><thead><tr><th width="177.1640625"></th><th></th><th width="115.0234375"></th><th width="96.44140625"></th><th></th></tr></thead><tbody><tr><td>Name</td><td>Attendance</td><td>Role</td><td>Voting</td><td>Election Term</td></tr><tr><td>Nicolas Cerny, </td><td>Apologies</td><td>Chair</td><td>Y</td><td>April 2026</td></tr><tr><td>Larisa Mcfarlane</td><td>Yes</td><td>Secretary</td><td>N</td><td>N/A</td></tr><tr><td>Thomas Lindseth</td><td>Apologies</td><td>Intersect</td><td>N</td><td>N/A</td></tr><tr><td>Ken-Erik O</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Nana Safo</td><td>Apologies</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Alex Seregin</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Randy</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Dzubang Mermoz</td><td>Part</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Ian Hartwell</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Megan Dyamond</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Musa Ridwan Itopa</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Simon Fleck</td><td>No</td><td>Member</td><td>Y</td><td>October 2026</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="177.1640625"></th><th></th><th width="115.0234375"></th><th width="96.44140625"></th><th></th></tr></thead><tbody><tr><td>Name</td><td>Attendance</td><td>Role</td><td>Voting</td><td>Election Term</td></tr><tr><td>Nicolas Cerny,</td><td>Apologies</td><td>Chair</td><td>Y</td><td>April 2026</td></tr><tr><td>Larisa Mcfarlane</td><td>Yes</td><td>Secretary</td><td>N</td><td>N/A</td></tr><tr><td>Thomas Lindseth</td><td>Apologies</td><td>Intersect</td><td>N</td><td>N/A</td></tr><tr><td>Ken-Erik O</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Nana Safo</td><td>Apologies</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Alex Seregin</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Randy</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Dzubang Mermoz</td><td>Part</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Ian Hartwell</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Megan Dyamond</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Musa Ridwan Itopa</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Simon Fleck</td><td>No</td><td>Member</td><td>Y</td><td>October 2026</td></tr></tbody></table>
 
 Recording: [CIVICS Committee (Intersect) Meeting - 2026/02/05 12:59 GMT - Recording](https://drive.google.com/file/d/1yvXEto4IVh2qPipuqUtR-Yr5WwF_uFHq/view?usp=sharing)
 
-#### Meeting Agenda: CIVICS Committee&#x20;
+#### Meeting Agenda: CIVICS Committee
 
 1. Welcome, Chair Updates & Housekeeping
-2. Committee Budget Framework  Update & Feedback
+2. Committee Budget Framework Update & Feedback
 3. Committee & CC Elections – Timelines
 4. Working Group Updates
 5. Governance Action Awareness & Updates

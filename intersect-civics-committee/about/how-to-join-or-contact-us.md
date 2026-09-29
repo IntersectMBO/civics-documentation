@@ -26,7 +26,7 @@ We also host **Civics X Spaces**: announced on [@intersectCIVICS](https://x.com/
 
 Working groups are open to contributors from the community. You do not need to be a committee member or an Intersect member to participate.
 
-Contact the Civics Secretary:&#x20;
+Contact the Civics Secretary:
 
 ***
 
@@ -54,10 +54,10 @@ See Constitutional Committee elections for how the process works, what is requir
 
 ### Stay in touch
 
-|                   |                                                                                                        |
-| ----------------- | ------------------------------------------------------------------------------------------------------ |
-| **X**             | [@intersectCIVICS](https://x.com/intersectCIVICS)                                                      |
-| **Email**         | <p></p><p><a href="mailto:civics-committee@intersectmbo.org">civics-committee@intersectmbo.org</a></p> |
-| **Discord**       | Intersect Discord, Civics channels                                                                     |
-| **Minutes**       | [Published weekly](../../meeting-minutes/2026-civics-meeting-minutes/)                                 |
-| **Weekly update** | [Intersect weekly update](https://intersectmbo.org/)                                                   |
+|                   |                                                                               |
+| ----------------- | ----------------------------------------------------------------------------- |
+| **X**             | [@intersectCIVICS](https://x.com/intersectCIVICS)                             |
+| **Email**         | [civics-committee@intersectmbo.org](mailto:civics-committee@intersectmbo.org) |
+| **Discord**       | Intersect Discord, Civics channels                                            |
+| **Minutes**       | Published weekly                                                              |
+| **Weekly update** | [Intersect weekly update](https://intersectmbo.org/)                          |

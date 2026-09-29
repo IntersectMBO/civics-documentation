@@ -1,12 +1,8 @@
-# Civics Meeting Minutes 29th Jan 2026
+# Civics Minutes 29 Jan '26
 
-Jan 29, 2026 | Civics Committee
+### Attendees:
 
-## Attendees:&#x20;
-
-<table data-header-hidden><thead><tr><th width="187.88671875"></th><th width="112.98828125"></th><th width="102.203125"></th><th width="115.31640625"></th><th></th></tr></thead><tbody><tr><td>Name</td><td>Attendance</td><td>Role</td><td>Voting Seat (Y/N)</td><td>Election Term</td></tr><tr><td>Nicolas Cerny, </td><td>Yes</td><td>Chair</td><td>Y</td><td>April 2026</td></tr><tr><td>Larisa Mcfarlane</td><td>Yes</td><td>Secretary</td><td>N</td><td>N/A</td></tr><tr><td>Thomas Lindseth</td><td>Yes</td><td>Intersect</td><td>N</td><td>N/A</td></tr><tr><td>Ken-Erik O</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Nana Safo</td><td>Apologies</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Alex Seregin</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Randy</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Dzubang Mermoz</td><td>No</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Ian Hartwell</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Megan Dyamond</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Musa Ridwan Itopa</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Simon Fleck</td><td>No</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Lorenzo Bruno</td><td>Yes</td><td>Intersect</td><td>N</td><td>N/A</td></tr></tbody></table>
-
-
+<table data-header-hidden><thead><tr><th width="187.88671875"></th><th width="112.98828125"></th><th width="102.203125"></th><th width="115.31640625"></th><th></th></tr></thead><tbody><tr><td>Name</td><td>Attendance</td><td>Role</td><td>Voting Seat (Y/N)</td><td>Election Term</td></tr><tr><td>Nicolas Cerny,</td><td>Yes</td><td>Chair</td><td>Y</td><td>April 2026</td></tr><tr><td>Larisa Mcfarlane</td><td>Yes</td><td>Secretary</td><td>N</td><td>N/A</td></tr><tr><td>Thomas Lindseth</td><td>Yes</td><td>Intersect</td><td>N</td><td>N/A</td></tr><tr><td>Ken-Erik O</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Nana Safo</td><td>Apologies</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Alex Seregin</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Randy</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Dzubang Mermoz</td><td>No</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Ian Hartwell</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Megan Dyamond</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Musa Ridwan Itopa</td><td>Yes</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Simon Fleck</td><td>No</td><td>Member</td><td>Y</td><td>October 2026</td></tr><tr><td>Lorenzo Bruno</td><td>Yes</td><td>Intersect</td><td>N</td><td>N/A</td></tr></tbody></table>
 
 Recording: [CIVICS Committee (Intersect) Meeting - 2026/01/29 12:57 GMT - Recording](https://drive.google.com/file/d/1JmQb4ZlpQS2UIKSMTwBtMmQ8dBocKcIS/view?usp=sharing)
 

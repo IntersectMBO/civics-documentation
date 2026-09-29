@@ -1,6 +1,6 @@
-# Civics Committee Minutes 30th July 2026
+# Civics Minutes 30 Jul '26
 
-#### Attendance
+### Attendance
 
 | Name                  | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | --------------------- | ---------- | --------- | ----------------- | ------------- |
@@ -16,7 +16,7 @@
 | Jose Miguel De Gamboa | No         | Member    | Y                 | April 2028    |
 | Nana Safo             | Yes        | Member    | Y                 | April 2028    |
 
-#### Agenda Items
+### Agenda Items
 
 * Intersect Steering Committee (ISC) Updates & Technical Protocol Progress
 * Constitutional Amendment Process (CAP) Working Group Progress & Rare Evo Demos
@@ -24,7 +24,7 @@
 * Constitutional Committee (CC) Election Audit & Update Committee Action Submission
 * Committee Communications, Monthly Reporting, & Outreach Planning
 
-#### Decisions/Actions
+### Decisions/Actions
 
 **Decisions Made**
 
@@ -43,7 +43,7 @@
 * BA: Present proposed community engagement ideas and X Space format structures during the next committee meeting.
 * The Group: Audit and review Simon's revised incentive framework document posted in the internal Civics channel.
 
-#### Topic Notes
+### Topic Notes
 
 <br>
 

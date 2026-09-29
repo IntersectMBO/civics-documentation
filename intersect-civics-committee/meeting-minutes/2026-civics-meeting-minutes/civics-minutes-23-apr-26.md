@@ -1,6 +1,6 @@
-# Civics Committee Minutes 23rd April 2026
+# Civics Minutes 23 Apr '26
 
-## Attendees
+### Attendees
 
 | Name              | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | ----------------- | ---------- | --------- | ----------------- | ------------- |
@@ -16,13 +16,13 @@
 | Randy             | Yes        | Member    | Y                 | April 2026    |
 | Nana Safo         | Yes        | Member    | Y                 | April 2026    |
 
-### Sources
+#### Sources
 
 [CIVICS Committee (Intersect) Meeting - 2026/04/23 13:57 BST - Recording](https://drive.google.com/file/d/150U7Fb7-0nKyT3I4FBbGaGzavMM1Z-sC/view?usp=drive_link)
 
 [CIVICS Committee (Intersect) Meeting - 2026/04/23 13:57 BST - Transcript](https://docs.google.com/document/d/1LcA-nE3ksZAQzXyRlLLhqDyAhS8orsgaITN74IaHdVc/edit?usp=drive_link)
 
-## Agenda Items
+### Agenda Items
 
 * Intersect Committee Elections Update & Bug Resolution
 * Privacy Concerns regarding Member Data Collection
@@ -30,14 +30,14 @@
 * Working Group Updates: CAP and Governance Incentives
 * Civics Committee Budget Proposal & Resource Forecasting
 
-**Decisions Made**
+#### Decisions Made
 
 * Verification Issues Resolved: The verification bug affecting committee elections was reported as resolved, with specific fixes for long-term members with multiple memberships.
 * Budget Submission Timeline: The committee will proceed with submitting the current budget draft to meet the early May deadline while iterating until late May .
 * Resource Hosting for CAP: The committee leaned toward hosting the Constitutional Amendment Process repo within the Intersect organization to ensure reliability and security.
 * Administrative Fees: Intersect will charge a 3% fee for managing specific budgets and treasury withdrawals instead of a lump sum for all administration .
 
-**Action Items**
+#### Action Items
 
 * MR: Recommended to immediately close the public spreadsheet collecting private member data to prevent further privacy breaches .
 * Civics Committee Members: Review the new resource forecast section of the budget and add specific names to roles to demonstrate accountability.
@@ -46,7 +46,7 @@
 * NC: Follow up in Discord to ensure all members are aware of the responsibility breakdown in the budget proposal.
 * <br>
 
-## Topic Notes
+### Topic Notes
 
 | Topic                    | Discussion                                                                                                                                                       | Notes                                                                                                                     |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |

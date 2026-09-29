@@ -1,6 +1,6 @@
-# Civics Committee Minutes 3rd September 2026
+# Civics Minutes 03 Sep '26
 
-#### Attendance
+### Attendance
 
 | Name                  | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | --------------------- | ---------- | --------- | ----------------- | ------------- |
@@ -18,11 +18,11 @@
 
 <br>
 
-#### Sources [CIVICS Committee (Intersect) Meeting - 2026/09/03 15:00 CEST - Recording](https://drive.google.com/file/d/1E6ngO1Hd8K2JLCdHNrHU2oq9kE7usPkI/view?usp=sharing)
+### Sources [CIVICS Committee (Intersect) Meeting - 2026/09/03 15:00 CEST - Recording](https://drive.google.com/file/d/1E6ngO1Hd8K2JLCdHNrHU2oq9kE7usPkI/view?usp=sharing)
 
 [CIVICS Committee (Intersect) Meeting - 2026/09/03 15:00 CEST - Notes by Gemini](https://docs.google.com/document/d/188FlQ3V4v5So8LGpiPA8tT8f4NrA5EZY6hGKZFJiXWY/edit?usp=sharing)
 
-#### Agenda Items
+### Agenda Items
 
 * Intersect Steering Committee (ISC) & Board Election Updates
 * Dijkstra Leos Protocol Parameter Specifications
@@ -33,7 +33,7 @@
 * Cardano Vision 2030 Governance Goals & Swim Lane Framework
 * Remote Team Culture & Community Outreach
 
-#### Decisions/Actions
+### Decisions/Actions
 
 **Decisions Made**
 
@@ -54,7 +54,7 @@
 * S (Seomon): Compile a brief close-out summary for the Governance Incentives working group and follow up with IOG Research regarding their incentive model timeline.
 * The Group: Complete the ISC Committee Member Experience and Performance Review survey by Friday, September 6.
 
-#### Topic Notes
+### Topic Notes
 
 <br>
 

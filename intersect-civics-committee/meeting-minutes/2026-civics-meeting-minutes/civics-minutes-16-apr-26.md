@@ -1,6 +1,6 @@
-# Civics Committee Minutes 16th April 2026
+# Civics Minutes 16 Apr '26
 
-## Attendees
+### Attendees
 
 | Name              | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | ----------------- | ---------- | --------- | ----------------- | ------------- |
@@ -16,7 +16,7 @@
 | Dzubang Mermoz    | Yes        | Member    | Y                 | April 2026    |
 | Randy             | Yes        | Member    | Y                 | April 2026    |
 
-### Sources
+#### Sources
 
 \
 [CIVICS Committee (Intersect) Meeting - 2026/04/16 13:50 BST - Recording](https://drive.google.com/file/d/10ltD7FSA2DzA6M6eoRF8y74Mn5CJkUji/view?usp=drive_web)
@@ -25,7 +25,7 @@
 
 <br>
 
-## Agenda Items
+### Agenda Items
 
 * Update from the Intersect Steering Committee (ISC)
 * Committee Elections Status
@@ -34,13 +34,13 @@
 * Committee Minimum Size Parameter Change
 * Civics Committee Budget Proposal Discussion
 
-## Decisions Made
+### Decisions Made
 
 * Governance Health Dashboard Launch: The committee acknowledged the live launch of the Dune-based Governance Health dashboard.
 * Education Resource Hosting: Governance education resources will live on GitHub to allow for continuous community contributions.
 * Budget Review Process: The budget discussion will move to Discord for a formal poll on commitment.
 
-## Action Items
+### Action Items
 
 * Voting Members: Review the updated budget proposal and provide comments by Monday.
 * NC: Set up a poll in Discord to gauge member commitment to the budget proposal.
@@ -48,7 +48,7 @@
 * TL: Share final dates/links for upcoming CC election X (Twitter) spaces.
 * SF: Focus on marketing the Governance Incentives Working Group for next week's charter finalization.
 
-## Topic Notes
+### Topic Notes
 
 | Topic                  | Discussion & Notes                                                                                                              |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------- |

@@ -1,6 +1,6 @@
 # Civics Minutes 17 Sep '26
 
-#### Attendance
+### Attendance
 
 | Name                  | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | --------------------- | ---------- | --------- | ----------------- | ------------- |
@@ -16,7 +16,7 @@
 | Jose Miguel De Gamboa | Yes        | Member    | Y                 | April 2028    |
 | Nana Safo             | Yes        | Member    | Y                 | April 2028    |
 
-#### Agenda Items
+### Agenda Items
 
 * Intersect Steering Committee (ISC) & Board Election Updates
 * CC Election Closeout Report Final Ratification & SPO Outreach Plan
@@ -25,7 +25,7 @@
 * Governance Tooling Landscape, Sunset Risks, & Sustainability
 * Cardano Vision 2030 Governance Roadmap & Q4 Planning
 
-#### Decisions/Actions
+### Decisions/Actions
 
 **Decisions Made**
 
@@ -41,7 +41,7 @@
 * The Group: Review the Cardano 2030 Governance Roadmap drive materials and select specific sub-goal verticals to steward.
 * The Group: Provide feedback on the CC offboarding interview questionnaire prepared by JD and S (Seomon).
 
-#### Topic Notes
+### Topic Notes
 
 <br>
 

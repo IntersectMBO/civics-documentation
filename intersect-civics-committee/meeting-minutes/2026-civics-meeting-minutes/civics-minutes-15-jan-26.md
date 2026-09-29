@@ -1,8 +1,8 @@
-# Civics Meeting Minutes 15th Jan 2026
+# Civics Minutes 15 Jan '26
 
-## Attendees:&#x20;
+### Attendees:
 
-<table data-header-hidden><thead><tr><th width="165.74609375"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Name</td><td>Attendance</td><td>Role</td><td>Voting Seat (Y/N)</td><td>Election Term</td></tr><tr><td>Nicolas Cerny, </td><td>Yes</td><td>Chair</td><td>Y</td><td>April 2026</td></tr><tr><td>Larisa Mcfarlane</td><td>Yes</td><td>Secretary</td><td>N</td><td>N/A</td></tr><tr><td>Thomas Lindseth</td><td>Yes</td><td>Intersect</td><td>N</td><td>N/A</td></tr><tr><td>Ken-Erik O</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Nana Safo</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Alex Seregin</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Randy</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Dzubang Mermoz</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Ian Hartwell</td><td>Yes</td><td>Member</td><td>Y</td><td>Oct 2026</td></tr><tr><td>Megan Dyamond</td><td>Apologies</td><td>Member</td><td>Y</td><td>Oct 2026</td></tr><tr><td>Musa Ridwan Itopa</td><td>No</td><td>Member</td><td>Y</td><td>Oct 2026</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="165.74609375"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Name</td><td>Attendance</td><td>Role</td><td>Voting Seat (Y/N)</td><td>Election Term</td></tr><tr><td>Nicolas Cerny,</td><td>Yes</td><td>Chair</td><td>Y</td><td>April 2026</td></tr><tr><td>Larisa Mcfarlane</td><td>Yes</td><td>Secretary</td><td>N</td><td>N/A</td></tr><tr><td>Thomas Lindseth</td><td>Yes</td><td>Intersect</td><td>N</td><td>N/A</td></tr><tr><td>Ken-Erik O</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Nana Safo</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Alex Seregin</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Randy</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Dzubang Mermoz</td><td>Yes</td><td>Member</td><td>Y</td><td>April 2026</td></tr><tr><td>Ian Hartwell</td><td>Yes</td><td>Member</td><td>Y</td><td>Oct 2026</td></tr><tr><td>Megan Dyamond</td><td>Apologies</td><td>Member</td><td>Y</td><td>Oct 2026</td></tr><tr><td>Musa Ridwan Itopa</td><td>No</td><td>Member</td><td>Y</td><td>Oct 2026</td></tr></tbody></table>
 
 Recording: [CIVICS Committee (Intersect) Meeting - 2026/01/15 12:57 GMT - Recording](https://drive.google.com/file/d/1G7rKUEMTxe4iQ_iRGPp3XzFzxjpGROsx/view?usp=sharing)
 
@@ -10,15 +10,15 @@ Transcript: [CIVICS Committee (Intersect) Meeting - 2026/01/15 12:57 GMT - Trans
 
 Chat Transcript: [Cardano Civics Committee Meeting - 2025/8/21 - Chat Transcript](https://drive.google.com/)
 
-## Agenda 15th Jan 26
+### Agenda 15th Jan 26
 
-* Governance action:  “critical” parameter changes, SPO voting expectations
-* Civics X Spaces  next Wednesday proposal, regular monthly slot, naming & format
-* CIP-149  comms plan, publication channels & reallocation discussion
+* Governance action: “critical” parameter changes, SPO voting expectations
+* Civics X Spaces next Wednesday proposal, regular monthly slot, naming & format
+* CIP-149 comms plan, publication channels & reallocation discussion
 * Working Group updates: CAP, Governance Education, Governance Health (paused)
-* ​​Committee business:  Vice Chair election & New proposal for Civics member stand-up (roles and focus)
+* ​​Committee business: Vice Chair election & New proposal for Civics member stand-up (roles and focus)
 
-## Decisions/Actions
+### Decisions/Actions
 
 The following decisions and actions were identified from the CIVICS Committee meeting on January 15, 2026:
 

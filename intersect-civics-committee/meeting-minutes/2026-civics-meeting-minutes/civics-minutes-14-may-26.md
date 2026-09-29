@@ -1,6 +1,6 @@
-# CIVICS Committee Minutes 14th May 2026
+# Civics Minutes 14 May '26
 
-#### Attendees
+### Attendees
 
 | Name                  | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | --------------------- | ---------- | --------- | ----------------- | ------------- |
@@ -16,13 +16,13 @@
 | Jose Miguel De Gamboa | Yes        | Member    | Y                 | April 2028    |
 | Nana Safo             | Yes        | Member    | Y                 | April 2028    |
 
-#### Sources
+### Sources
 
 [CIVICS Committee (Intersect) Meeting - 2026/05/14 14:55 CEST - Notes by Gemini](https://docs.google.com/document/d/17F6rQuIzXiA-DNQrniuDuLEIFiLUp7BPbaV7NNiG55c/edit?usp=sharing)
 
 [CIVICS Committee (Intersect) Meeting - 2026/05/14 14:55 CEST - Recording](https://drive.google.com/file/d/1vLRrWUtFaDGpJcJGbja1Owmnc6tF1LpA/view?usp=sharing)
 
-#### Agenda Items
+### Agenda Items
 
 * Intersect Steering Committee (ISC) Update
 * Welcoming New and Returning Members
@@ -30,22 +30,22 @@
 * Working Group Updates: CAP and Governance Incentives
 * Constitutional Committee (CC) Election Update
 
-#### Decisions/Actions
+### Decisions/Actions
 
-**Decisions Made**
+#### Decisions Made
 
 * Governance Health Working Group Reactivation: The committee discussed reactivating the working group to serve as the platform for managing feedback collection and governance initiatives.
 
-**Action Items**
+#### Action Items
 
 * TL: Update meeting slides to include the events calendar link.
-* TL: Invite Aaron to the next CAP meeting.&#x20;
+* TL: Invite Aaron to the next CAP meeting.
 * NC: Write a reply to budget proposal comments for internal review.
 * S: Document governance incentive initiatives.
 * TL: Add weekly X Spaces details to the Luma platform.
 * WG: Finalize the budget proposal by reviewing and updating the document before the May 22 deadline.
 
-#### Topic Notes
+### Topic Notes
 
 | Topic                    | Discussion                                                                                                                                                              | Notes                                                                                                                                                  |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |

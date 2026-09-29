@@ -1,6 +1,6 @@
-# Civics Committee Minutes 23rd July 2026
+# Civics Minutes 23 Jul '26
 
-#### Attendees
+### Attendees
 
 <br>
 
@@ -20,7 +20,7 @@
 
 <br>
 
-#### Agenda Items
+### Agenda Items
 
 * Intersect Code of Conduct, Governance Bylaws, & Election Outreach
 * Stakeholder Governance Incentives Framework Proposal
@@ -28,7 +28,7 @@
 * CC Election Voting Finalization
 * Technical CIP Endorsement Transition (CIP-151 to CIP-175)
 
-#### Decisions/Actions
+### Decisions/Actions
 
 **Decisions Made**
 
@@ -48,7 +48,7 @@
 * The Group: Continue technical debates surrounding the CIP endorsement asynchronously via Discord.
 * The Group: Schedule the next community X Space session to take place in three weeks.
 
-#### Topic Notes
+### Topic Notes
 
 <br>
 

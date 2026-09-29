@@ -1,6 +1,6 @@
 # Civics Minutes 10 Sep '26
 
-#### Attendance
+### Attendance
 
 | Name                  | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | --------------------- | ---------- | --------- | ----------------- | ------------- |
@@ -16,7 +16,7 @@
 | Jose Miguel De Gamboa | Yes        | Member    | Y                 | April 2028    |
 | Nana Safo             | Yes        | Member    | Y                 | April 2028    |
 
-#### Agenda Items
+### Agenda Items
 
 * Intersect Steering Committee (ISC) & Technical Updates
 * Technical Steering Committee (TSC) Parameter Decisions
@@ -25,7 +25,7 @@
 * Cardano Vision 2030 Governance Pillar Roadmap Framework
 * Governance Tooling, Budget Integration, & Annual Planning
 
-#### Decisions/Actions
+### Decisions/Actions
 
 **Decisions Made**
 
@@ -39,7 +39,7 @@
 * The Group: Review the five sub-goal templates in the shared drive for the Cardano 2030 Governance Pillar and select areas to steward.
 * NC: Coordinate a dedicated working session to collectively work through a sample sub-goal template with the committee.
 
-#### Topic Notes
+### Topic Notes
 
 <br>
 

@@ -8,11 +8,11 @@ The Civics Committee has facilitated every Constitutional Committee election so 
 
 ***
 
-### Current process&#x20;
+### Current process
 
 An election has two halves, and both must succeed.
 
-**1. The off-chain election** selects candidates. Registration, credential verification, campaigning, then a DRep vote on Intersect's Hydra-based platform, built on Ekklesia. Results are independently audited before publication. Platform documentation: [Intersect Hydra voting](https://docs.hydra-voting.intersectmbo.org).&#x20;
+**1. The off-chain election** selects candidates. Registration, credential verification, campaigning, then a DRep vote on Intersect's Hydra-based platform, built on Ekklesia. Results are independently audited before publication. Platform documentation: [Intersect Hydra voting](https://docs.hydra-voting.intersectmbo.org).
 
 **2. On-chain ratification** seats them. An _Update Constitutional Committee_ governance action goes on-chain carrying the elected credentials. It requires **67% DRep approval and 51% SPO approval** to ratify, and takes effect at the following epoch boundary.
 
@@ -22,7 +22,7 @@ The second half is where elections are actually won or lost. The off-chain vote 
 
 ### Who does what
 
-Since January 2026, **Intersect's governance team executes** and the **Civics Committee oversees**. The arrangement was approved by seven votes in favour on [29 January 2026](../../meeting-minutes/2026-civics-meeting-minutes/civics-minutes-29-jan-26.md), conditional on a written process description and a RACI matrix.
+Since January 2026, **Intersect's governance team executes** and the **Civics Committee oversees**. The arrangement was approved by seven votes in favour on 29 January 2026, conditional on a written process description and a RACI matrix.
 
 Intersect provides the platform, verifies applications, coordinates the timeline and submits the governance action. Civics retains oversight, including adjudicating edge cases such as incomplete or non-genuine applications. Intersect does not control the outcome and cannot appoint members. Appointment happens only through on-chain ratification.
 
@@ -69,7 +69,7 @@ Candidacy is open. You dont need to be an Intersect member. Information about th
 | DRep support | **71.95%**: threshold 67%      |
 | SPO support  | **56.54%**: threshold 51%      |
 
-Registration originally closed on 4 June with exactly four candidates for four seats, a ballot offering no choice. The committee voted six in favour, none against, one abstention to extend by two weeks ([4 June 2026](../../meeting-minutes/2026-civics-meeting-minutes/civics-minutes-04-jun-26.md)), ran targeted outreach across Intersect, the Cardano Foundation, IOG and community channels, and the field reached ten.
+Registration originally closed on 4 June with exactly four candidates for four seats, a ballot offering no choice. The committee voted six in favour, none against, one abstention to extend by two weeks (4 June 2026), ran targeted outreach across Intersect, the Cardano Foundation, IOG and community channels, and the field reached ten.
 
 The independent audit reconstructed the result from source records, verified file integrity by SHA-256 hash, validated the Hydra close and fanout transactions, reproduced the on-chain result hashes, and published the complete raw audit package.
 
@@ -81,6 +81,6 @@ Published results and timeline: [2026 Constitutional Committee Elections](https:
 
 The next Constitutional Committee election is expected in 2027. Watch this page, the [Weekly Intersect Newsletter](https://intersectmbo.org/news), [@Intersectmbo](https://x.com/intersectmbo) and [@intersectCIVICS](https://x.com/intersectCIVICS) for updates.
 
-If you are considering standing, the most useful thing you can do now is to familiarize yourself with these [resources](resources.md).
+If you are considering standing, the most useful thing you can do now is to familiarize yourself with these resources.
 
 [**Why Intersect facilitates an election process to confirm a new Constitutional Committee**](https://www.intersectmbo.org/news/why-intersect-facilitates-an-election-process-to-confirm-a-new-constitutional-committee)

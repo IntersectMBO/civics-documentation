@@ -1,6 +1,6 @@
-# Civics Committee Minutes 20th August 2026
+# Civics Minutes 20 Aug '26
 
-#### Attendance
+### Attendance
 
 | Name                  | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | --------------------- | ---------- | --------- | ----------------- | ------------- |
@@ -16,13 +16,13 @@
 | Jose Miguel De Gamboa | Yes        | Member    | Y                 | April 2028    |
 | Nana Safo             | Yes        | Member    | Y                 | April 2028    |
 
-#### Sources
+### Sources
 
 [CIVICS Committee (Intersect) Meeting - 2026/08/20 14:07 CEST - Notes by Gemini](https://docs.google.com/document/d/1yR9OPVCNJcZRd3NEbnugOl-7BijM5PRIqNMiLdYBjow/edit?usp=drive_link)
 
 [CIVICS Committee (Intersect) Meeting - 2026/08/20 14:07 CEST - Recording](https://drive.google.com/file/d/11XNMiVJnJMtOvYB86o7hKYO_PY9nQwBq/view?usp=sharing)
 
-#### Agenda Items
+### Agenda Items
 
 * Intersect Board Elections & Governance Updates
 * DijkstraHard Fork & Technical Constitutional Amendment Scope
@@ -31,7 +31,7 @@
 * Social Media Outreach & Constitutional Committee (CC) Vote Amplification
 * Cardano Vision 2030 Framework & Governance Pillar 3 Ownership
 
-#### Decisions/Actions
+### Decisions/Actions
 
 **Decisions Made**
 
@@ -49,7 +49,7 @@
 * BA: Draft a post for the committee account encouraging stake pool operators (SPOs) to participate in the active CC vote.
 * The Group: Submit social media materials to LM for reposting through the official Intersect Civics channel.
 
-#### Topic Notes
+### Topic Notes
 
 <br>
 

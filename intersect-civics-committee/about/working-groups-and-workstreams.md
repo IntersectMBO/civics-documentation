@@ -12,10 +12,10 @@ Each committee may establish working groups freely to address specific work item
 
 #### Constitutional Amendment Process (CAP)
 
-**Purpose**: Design and operate a transparent, inclusive process for amending the Cardano Constitution, and run the portal that implements it. \
-**Charter**: [v1.0](https://docs.google.com/document/d/1yiU8E6x2svg5ZjsBtt39DN-j8e7eI-K1_VeMUG10Uzc/edit?usp=sharing), superseded by [v2.0](https://docs.google.com/document/d/1iSrvuWTQGOlQYIq536huYDwM67GuFTrqQEilIi2pE70/edit?usp=sharing) ([approved 29 January 2026](../../meeting-minutes/2026-civics-meeting-minutes/civics-minutes-29-jan-26.md)) \
-**Status**: **Hiatus until the CAP alpha concludes.** \
-Moved to asynchronous working with bi-weekly editor calls on [27 August 2026](../../meeting-minutes/2026-civics-meeting-minutes/civics-minutes-27-aug-26.md). Its scope is shifting to act as an open drafting space for community-led amendments.
+**Purpose**: Design and operate a transparent, inclusive process for amending the Cardano Constitution, and run the portal that implements it.\
+**Charter**: [v1.0](https://docs.google.com/document/d/1yiU8E6x2svg5ZjsBtt39DN-j8e7eI-K1_VeMUG10Uzc/edit?usp=sharing), superseded by [v2.0](https://docs.google.com/document/d/1iSrvuWTQGOlQYIq536huYDwM67GuFTrqQEilIi2pE70/edit?usp=sharing) (approved 29 January 2026)\
+**Status**: **Hiatus until the CAP alpha concludes.**\
+Moved to asynchronous working with bi-weekly editor calls on 27 August 2026. Its scope is shifting to act as an open drafting space for community-led amendments.
 
 | Milestone                                                 | Status                | Evidence                                                                                                                            |
 | --------------------------------------------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,13 +27,13 @@ Moved to asynchronous working with bi-weekly editor calls on [27 August 2026](..
 
 **Other outputs**: the [Editor Role definition](https://docs.google.com/document/d/1nVbi7NHeEeUxE_dyzIZVa1Xo5vMSk6D-iE3vCT_Gtp4/edit?usp=sharing), the [Tagging System](https://docs.google.com/document/d/1-_zCl-9dM6oFIyLnTCjYVZCdphyQiunvIOgkWQCFMF0/edit?usp=sharing), the [Requirements-to-CAP Matrix](https://docs.google.com/document/d/1dHVsKC0HvbJlK1iihTW3clhInq8QtpBCLFlUQ0WCz7o/edit?usp=sharing), and published [meeting transcripts](https://drive.google.com/drive/folders/1oILReUq36yM3J-eYABr_9dY9R3l3heOJ?usp=sharing) and [workshop materials](https://drive.google.com/drive/folders/1j_fmp8fShyeL10LnPh0L8rkjYgk6q4Sh?usp=sharing).
 
-→ [Constitutional Amendment Process](../../our-current-work/constitutional-amendment-process.md)
+→ Constitutional Amendment Process
 
 ***
 
 #### Cardano Vision 2030: Governance Pillar
 
-**Purpose**: Coordinate Pillar 3 (Governance) of Cardano Vision 2030. The committee agreed on [20 August 2026](../../meeting-minutes/2026-civics-meeting-minutes/civics-minutes-20-aug-26.md) to act as strategic coordinator and roadmap owner, leaving technical execution to the wider ecosystem. \
+**Purpose**: Coordinate Pillar 3 (Governance) of Cardano Vision 2030. The committee agreed on 20 August 2026 to act as strategic coordinator and roadmap owner, leaving technical execution to the wider ecosystem.\
 **Status**: Active. Structured as five parallel lanes with a member champion each, using the [Five Lanes framework](https://drive.google.com/file/d/1qcZNgcWYtK9eS5d0l7Voeay8VsKbgfg0/view?usp=sharing). Deliberately **not** constituted as a separate working group, to avoid fragmenting the committee's limited capacity.
 
 | Lane                                                                                         | Sub-goal                        | Route    |
@@ -44,7 +44,7 @@ Moved to asynchronous working with bi-weekly editor calls on [27 August 2026](..
 | [G.2(b)](https://drive.google.com/file/d/192rXmtZmrEuJfre_7PedO0K-_AFFKG7T/view?usp=sharing) | Per-proposal delegator override | Protocol |
 | [G.3](https://drive.google.com/file/d/12dIgtG3HOVcgAtiuUAzc9ina-3ghqgvK/view?usp=sharing)    | Treasury seasons                | Process  |
 
-→  [Governance Roadmap 2030](../../our-current-work/governance-roadmap-2030.md)
+→ Governance Roadmap 2030
 
 ***
 
@@ -52,9 +52,9 @@ Moved to asynchronous working with bi-weekly editor calls on [27 August 2026](..
 
 #### Governance Health _(paused January 2026)_
 
-**Purpose**: Establish how to measure, understand and improve the health of Cardano's governance. **Charter**: [GHWG Charter](https://docs.google.com/document/d/1hbNAOGpjAODkKRxKIQAN6M0UEmvSgceFf13IY3DlRyk/edit?usp=sharing) **Created**: [17 July 2025](../../meeting-minutes/2025-civics-meeting-minutes/civics-meeting-minutes-july-17-2025.md), to deliver objective 1 of the [H2 2025 roadmap](https://docs.google.com/document/d/1N5OAsKYL05U_ACKp1s2vmOQNAUzX2-LmLsgzjyMCzxQ/edit?usp=sharing)
+**Purpose**: Establish how to measure, understand and improve the health of Cardano's governance. **Charter**: [GHWG Charter](https://docs.google.com/document/d/1hbNAOGpjAODkKRxKIQAN6M0UEmvSgceFf13IY3DlRyk/edit?usp=sharing) **Created**: 17 July 2025, to deliver objective 1 of the [H2 2025 roadmap](https://docs.google.com/document/d/1N5OAsKYL05U_ACKp1s2vmOQNAUzX2-LmLsgzjyMCzxQ/edit?usp=sharing)
 
-**Delivered**: all six milestones, concluding with the [**Governance Health KPI Report**](https://docs.google.com/document/d/1EKH1ktkgu3ne7mta8o-ky7x3yMKcG4onjiFKZxCns24/edit?usp=sharing) (24 pages, six KPI categories), approved for publication [4 December 2025](../../meeting-minutes/2025-civics-meeting-minutes/civics-meeting-minutes-dec-4-2025.md) and released January 2026; and a live [**Dune dashboard**](https://gov-health.intersectmbo.org/) in April 2026. The group paused on delivery rather than closing outright, and reactivation was discussed in May 2026.
+**Delivered**: all six milestones, concluding with the [**Governance Health KPI Report**](https://docs.google.com/document/d/1EKH1ktkgu3ne7mta8o-ky7x3yMKcG4onjiFKZxCns24/edit?usp=sharing) (24 pages, six KPI categories), approved for publication 4 December 2025 and released January 2026; and a live [**Dune dashboard**](https://gov-health.intersectmbo.org/) in April 2026. The group paused on delivery rather than closing outright, and reactivation was discussed in May 2026.
 
 #### Governance Education _(concluded March 2026)_
 
@@ -84,25 +84,25 @@ All working group documents: [GEWG folder](https://drive.google.com/drive/folder
 
 #### Constitution Ratification _(concluded 2025)_
 
-**Purpose**: Facilitate the drafting and community ratification of the Cardano Constitution.&#x20;
+**Purpose**: Facilitate the drafting and community ratification of the Cardano Constitution.
 
-**Created**: [21 March 2024](../../meeting-minutes/2024-civics-meeting-minutes/civics-meeting-minutes-march-21-2024.md)
+**Created**: 21 March 2024
 
 **Delivered**: the [Draft Constitution](https://drive.google.com/file/d/1SYFzjrRjf7rkBrLRjPi51AyzbZBajrmZ/view?usp=drive_link) and [Cardano Tenets](https://drive.google.com/file/d/1wGTiTkVMWBel_kTfqNrHAl2irphBXD_3/view); 60+ community workshops with 50 grant-funded (13 June 2024); delegate synthesis workshops across multiple regions (7 November 2024); the Constitutional Convention in Argentina; and the Constitution governance action submitted on-chain in January 2025. Issues identified but not resolved during drafting are recorded in the [Constitutional Debt Backlog](https://docs.google.com/document/d/1Bmethc-6Ww7JwVIpRPkBHaeUN8Hrln1bIggry4NJYXI/edit?usp=sharing).
 
 #### Governance Guardrails _(concluded 2024)_
 
-**Purpose**: Recommend the non-parameter guardrails needed to avoid system failures.&#x20;
+**Purpose**: Recommend the non-parameter guardrails needed to avoid system failures.
 
-**Created**: [26 October 2023](../../meeting-minutes/2023-civic-meeting-minutes/civics-meeting-minutes-october-26-2023.md)
+**Created**: 26 October 2023
 
 **Delivered**: the [guardrails analysis](https://docs.google.com/document/d/1bbnPhaiygk0LjOopY5vab19hYWLMDOXk4axSHugSGTA/edit?usp=sharing) that fed the interim Constitution, including the treasury withdrawal net-change-limit provision agreed 7 December 2023 and drafted into text 18 January 2024. That guardrail remains in the Constitution.
 
 #### Governance Support _(archived April 2025)_
 
-**Purpose**: Provide administrative and facilitation resources to the Interim Constitutional Committee, monitor on-chain voting tooling, and maintain voting guidelines and templates. **Charter**: [Governance Support WG Charter (draft)](https://docs.google.com/presentation/d/11L9dO72mI2d_usJVMnjV0RBIQ23UCkrH2Hry_d7Wq3o/edit?usp=sharing)&#x20;
+**Purpose**: Provide administrative and facilitation resources to the Interim Constitutional Committee, monitor on-chain voting tooling, and maintain voting guidelines and templates. **Charter**: [Governance Support WG Charter (draft)](https://docs.google.com/presentation/d/11L9dO72mI2d_usJVMnjV0RBIQ23UCkrH2Hry_d7Wq3o/edit?usp=sharing)
 
-**Created**: [5 September 2024](../../meeting-minutes/2024-civics-meeting-minutes/civics-meeting-minutes-september-05-2024.md)
+**Created**: 5 September 2024
 
 **Delivered**: ICC process workshops covering deliberation, rationale writing and voting (7 November 2024); the 2025 governance support budget request; and the DRep compensation consultation workshop series (30 January 2025).
 

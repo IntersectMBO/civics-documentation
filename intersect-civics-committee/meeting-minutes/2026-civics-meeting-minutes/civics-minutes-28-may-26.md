@@ -1,6 +1,6 @@
-# Civics Committee Minutes 28th May 2026
+# Civics Minutes 28 May '26
 
-#### Attendees
+### Attendees
 
 | Name                  | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | --------------------- | ---------- | --------- | ----------------- | ------------- |
@@ -16,13 +16,13 @@
 | Jose Miguel De Gamboa | Yes        | Member    | Y                 | April 2028    |
 | Nana Safo             | Yes        | Member    | Y                 | April 2028    |
 
-#### Sources
+### Sources
 
 [CIVICS Committee (Intersect) Meeting - 2026/05/28 15:59 CEST - Notes by Gemini](https://docs.google.com/document/d/1sFrveZ8x3krcWCUe0vVaPAyuyi3v4aGuhCNFiVdRuy0/edit?tab=t.e5pl18cthzct#heading=h.ipu03it6y3oo)
 
 [CIVICS Committee (Intersect) Meeting - 2026/05/28 15:59 CEST - Recording](https://drive.google.com/file/d/1DE_WuFNzxrdzRGwLbTRdLA2p_KjCpVfO/view?usp=drive_web)
 
-#### Agenda Items
+### Agenda Items
 
 * Intersect Steering Committee (ISC) and Board Meeting Updates
 * Civics Committee Chair and Vice Chair Elections
@@ -30,7 +30,7 @@
 * Working Group Updates: CAP and Governance Incentives
 * Strategy and Focus Areas for the Rest of the Year
 
-#### Decisions/Actions
+### Decisions/Actions
 
 **Decisions Made**
 
@@ -48,7 +48,7 @@
 * S: Collaborate with TL in the next working group session to analyze Thomas's on-chain polling tool as an alternative to an information action.
 * Civics Committee Members: Prepare focus area suggestions, KPIs, and objectives ahead of next week's strategy discussion with Danielle from IOG.
 
-#### Topic Notes
+### Topic Notes
 
 | Topic                 | Discussion                                                                                                                                                                                  | Notes                                                                                                               |
 | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |

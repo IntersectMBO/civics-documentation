@@ -1,6 +1,6 @@
-# Civics Commitee Minutes 16th July 2026
+# Civics Minutes 16 Jul '26
 
-#### Attendees
+### Attendees
 
 | Name                  | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | --------------------- | ---------- | --------- | ----------------- | ------------- |
@@ -18,7 +18,7 @@
 
 <br>
 
-#### Agenda Items
+### Agenda Items
 
 * Intersect Steering Committee (ISC) Updates, Bylaws, & Governance Structure
 * Constitutional Amendment Process (CAP) Working Group Progress
@@ -27,7 +27,7 @@
 * CIP-151 Endorsement Vote for SPO Registration Keys
 * Civics Committee Operational Communications & Offboarding Planning
 
-#### Decisions/Actions
+### Decisions/Actions
 
 **Decisions Made**
 
@@ -50,7 +50,7 @@
 * S (Seomon) & JD: Launch the offboarding interview survey targeting outgoing Constitutional Committee members the following week.
 * The Group: Finalize host and co-host assignments for the 12-week X Space broadcast schedule.
 
-#### Topic Notes
+### Topic Notes
 
 <br>
 

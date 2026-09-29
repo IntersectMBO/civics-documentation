@@ -1,6 +1,6 @@
-# Civics Committee Minutes 27th August 2026
+# Civics Minutes 27 Aug '26
 
-#### Attendance
+### Attendance
 
 | Name                  | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | --------------------- | ---------- | --------- | ----------------- | ------------- |
@@ -16,7 +16,7 @@
 | Jose Miguel De Gamboa | Yes        | Member    | Y                 | April 2028    |
 | Nana Safo             | No         | Member    | Y                 | April 2028    |
 
-#### Sources
+### Sources
 
 [CIVICS Committee (Intersect) Meeting - 2026/08/27 14:51 CEST - Notes by Gemini](https://docs.google.com/document/d/1NALXpdKlwk5LUgZMBjovMLzlZ4Q0hQFcquGrpO0PC6w/edit?usp=sharing)
 
@@ -24,7 +24,7 @@
 
 <br>
 
-#### Agenda Items
+### Agenda Items
 
 * Intersect Steering Committee & Board Member Experience Survey
 * Status & Strategy for Live Expiring Governance Actions
@@ -33,7 +33,7 @@
 * Ecosystem Mobilization & Stake Pool Operator (SPO) Communications
 * Cardano Vision 2030 Governance Pillar Planning
 
-#### Decisions/Actions
+### Decisions/Actions
 
 **Decisions Made**
 
@@ -53,7 +53,7 @@
 * TL: Update the Intersect Knowledge Base with the approved CAP Phase 2 document.
 * The Group: Review NC's shared Cardano 2030 Governance Pillar document to prepare for a deep dive session during the next meeting.
 
-#### Topic Notes
+### Topic Notes
 
 <br>
 

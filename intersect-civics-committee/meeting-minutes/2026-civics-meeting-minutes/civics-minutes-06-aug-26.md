@@ -1,6 +1,6 @@
-# Civics Committee Minutes 6th August  2026
+# Civics Minutes 06 Aug '26
 
-#### Attendance
+### Attendance
 
 | Name                  | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | --------------------- | ---------- | --------- | ----------------- | ------------- |
@@ -16,14 +16,14 @@
 | Jose Miguel De Gamboa | No         | Member    | Y                 | April 2028    |
 | Nana Safo             | No         | Member    | Y                 | April 2028    |
 
-#### Agenda Items
+### Agenda Items
 
 * Administrative & Intersect Governance Updates (Bylaws & Governance Actions)
 * Constitutional Committee (CC) Reimbursement & Tooling Proposal
 * Constitutional Amendment Portal (CAP) Working Group Evolution
 * Product Committee Request: Cardano Vision 2030 Survey Evaluation
 
-#### Decisions/Actions
+### Decisions/Actions
 
 **Decisions Made**
 
@@ -43,7 +43,7 @@
 * The Group: Assist DS in reaching out to active Constitutional Committee members to collect direct feedback on signing tool preferences.
 * The Group: Review and add inline comments to the reimbursement proposal document shared by DS.
 
-#### Topic Notes
+### Topic Notes
 
 <br>
 

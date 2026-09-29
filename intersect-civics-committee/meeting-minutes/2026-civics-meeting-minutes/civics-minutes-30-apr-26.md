@@ -1,6 +1,6 @@
-# Civics Committee Minutes 30th April 2026
+# Civics Minutes 30 Apr '26
 
-#### Attendees
+### Attendees
 
 | Name              | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | ----------------- | ---------- | --------- | ----------------- | ------------- |
@@ -16,15 +16,13 @@
 | Randy             | Yes        | Member    | Y                 | April 2026    |
 | Nana Safo         | Yes        | Member    | Y                 | April 2026    |
 
-
-
-#### Sources
+### Sources
 
 [CIVICS Committee (Intersect) Meeting - 2026/04/30 13:59 BST - Recording](https://drive.google.com/file/d/1a9xcMIkNRgIxt9yppqhz0bWkAoL55GCB/view?usp=sharing)
 
 [CIVICS Committee (Intersect) Meeting - 2026/04/30 13:59 BST - Transcript](https://docs.google.com/document/d/15tWGuuW6oFzzTDFWYGaTke6O2s5jCi1l1ZCEW6KS8ZM/edit?usp=sharing)
 
-#### Agenda Items
+### Agenda Items
 
 * Update from the Intersect Steering Committee (ISC)
 * Committee Elections Status
@@ -33,23 +31,23 @@
 * Governance Incentives Working Group Charter Ratification
 * Civics Committee Budget Proposal Refinement and Vote
 
-#### Decisions/Actions
+### Decisions/Actions
 
-**Decisions Made**
+#### Decisions Made
 
 * Charter Ratification: The committee officially ratified the charter for the Governance Incentives Working Group. The purpose was clarified to include providing recommendations to the Cardano community through the Civics committee.
 * Budget Strategy Change: The committee decided to strategically reduce the quantity of flagship workshops from nine to six (one per continent) to improve the proposal's chances of approval by DReps.
 * Workshop Coordination: Language will be added to the budget proposal stating an intention to minimize costs by coordinating workshop logistics with other Intersect committees where possible.
 * Budget Approval: The committee voted unanimously (6-0) to approve version 6 of the budget proposal for submission to the Hydra voting tool for community feedback.
 
-**Action Items**
+#### Action Items
 
 * Civics Committee Members: Cast votes for the next committee election in the members' portal by tomorrow, May 1, at 12:00 PM UTC.
 * Civics Committee Members: Continue testing the CAP tool on various devices and report any bugs directly to the working group.
 * S (Seomon): Coordinate with TL to verify which wallets have successfully implemented the optional governance incentives grant.
 * LM & NC: Clean up the finalized budget document and submit it to the Hydra voting tool.
 
-#### Topic Notes
+### Topic Notes
 
 | Topic                     | Discussion                                                                                                                                               | Notes                                                                                                                                            |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |

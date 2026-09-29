@@ -1,6 +1,6 @@
-# Civics Commitee Minutes 13th August 2026
+# Civics Minutes 13 Aug '26
 
-#### Attendance
+### Attendance
 
 | Name                  | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | --------------------- | ---------- | --------- | ----------------- | ------------- |
@@ -16,7 +16,7 @@
 | Jose Miguel De Gamboa | Yes        | Member    | Y                 | April 2028    |
 | Nana Safo             | Yes        | Member    | Y                 | April 2028    |
 
-#### Agenda Items
+### Agenda Items
 
 * Intersect Steering Committee (ISC) & Leadership Updates
 * Meeting Cadence & Operational Structure Adjustment
@@ -25,7 +25,7 @@
 * Community Outreach & Social Media Strategy
 * Product Committee Request: Cardano Vision 2030 KPI Survey Review
 
-#### Decisions/Actions
+### Decisions/Actions
 
 **Decisions Made**
 
@@ -43,7 +43,7 @@
 * The Group: Examine the Product Committee's Cardano Vision 2030 KPI survey document individually to prepare collective feedback.
 * The Group: Adjust next week's meeting schedule to start 30 minutes earlier to accommodate the dedicated Cardano 2030 KPI survey discussion.
 
-#### Topic Notes
+### Topic Notes
 
 <br>
 

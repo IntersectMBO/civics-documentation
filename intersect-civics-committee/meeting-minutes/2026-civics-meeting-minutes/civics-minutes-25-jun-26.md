@@ -1,6 +1,6 @@
-# Civics Committee Minutes 25th June 2026
+# Civics Minutes 25 Jun '26
 
-#### Attendees
+### Attendees
 
 | Name                  | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | --------------------- | ---------- | --------- | ----------------- | ------------- |
@@ -16,11 +16,11 @@
 | Jose Miguel De Gamboa | Yes        | Member    | Y                 | April 2028    |
 | Nana Safo             | Yes        | Member    | Y                 | April 2028    |
 
-#### Sources
+### Sources
 
 [CIVICS Committee (Intersect) Meeting - 2026/06/25 14:58 CEST - Notes by Gemini](https://docs.google.com/document/d/1v0cgHPsvBA51XJX0K68-44b9eFOLz6Om-QeW9yxY88g/edit?tab=t.9twjcadttp1g)
 
-#### Agenda Items
+### Agenda Items
 
 * Intersect Steering Committee (ISC) & Technical Steering Committee (TSC) Updates
 * Constitutional Committee (CC) Size Change Parameter Voting Status
@@ -31,7 +31,7 @@
 * Governance Ecosystem Tooling Realities (GovTool & Eternal Wallet)
 * Constitutional Committee (CC) Candidate Pipeline and Verification
 
-#### Decisions/Actions
+### Decisions/Actions
 
 **Decisions Made**
 
@@ -49,7 +49,7 @@
 * TL & Mike: Finalize administrative credential vetting for the three late-registering CC candidates before the weekend verification cutoff.
 * The Group: Access the community blog post shared by BA to review the operational and technical trade-offs of SPO hot signature derivations.
 
-#### Topic Notes
+### Topic Notes
 
 | Topic                  | Discussion                                                                                                                                                    | Notes                                                                                                                                     |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |

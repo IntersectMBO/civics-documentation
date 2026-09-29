@@ -1,6 +1,6 @@
-# Civics Committee Minutes 4th June 2026
+# Civics Minutes 04 Jun '26
 
-#### Attendees
+### Attendees
 
 | Name                  | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | --------------------- | ---------- | --------- | ----------------- | ------------- |
@@ -16,26 +16,24 @@
 | Jose Miguel De Gamboa | Yes        | Member    | Y                 | April 2028    |
 | Nana Safo             | Yes        | Member    | Y                 | April 2028    |
 
-#### Sources
+### Sources
 
-&#x20;[CIVICS Committee (Intersect) Meeting - 2026/06/04 14:56 CEST - Notes by Gemini](https://docs.google.com/document/d/13Z_jwSDBxrv5hXXv7q-tVIt1CQcVyf3L_zygLSJpBhY/edit?tab=t.k1e5dx2u35dn)
+[CIVICS Committee (Intersect) Meeting - 2026/06/04 14:56 CEST - Notes by Gemini](https://docs.google.com/document/d/13Z_jwSDBxrv5hXXv7q-tVIt1CQcVyf3L_zygLSJpBhY/edit?tab=t.k1e5dx2u35dn)
 
 [CIVICS Committee (Intersect) Meeting - 2026/06/04 14:56 CEST - Recording](https://drive.google.com/file/d/1sfhMJz00v-7eEdsOmhm2bjLTsibJpwFq/view?usp=sharing)
 
-#### Agenda Items
+### Agenda Items
 
 * Intersect Steering Committee (ISC) Updates
 * Committee Chair and Vice Chair Elections Status
 * Constitutional Committee (CC) Election Timeline and Candidate Shortage
 * Beyond Minimum Viable Governance (Beyond MVG) Presentation
 
-#### Decisions/Actions
+### Decisions/Actions
 
 **Decisions Made**
 
 * CC Election Registration Extension: The committee voted 6-0 (with 1 abstention) to extend the Constitutional Committee election registration deadline by two weeks to June 21, 2026, at 21:45 UTC, to address a critical shortage of candidates.
-
-
 
 **Action Items**
 
@@ -46,9 +44,7 @@
 * TL: Compile the specific operational and logistical blockers raised by potential candidates who decided against applying.
 * Civics Committee members: Review the Beyond MVG slide deck and cost-benefit analysis data to prepare for building a prioritisation matrix in the upcoming strategy workshops.
 
-
-
-#### Topic Notes
+### Topic Notes
 
 | Topic                    | Discussion                                                                                                                                                                                    | Notes                                                                                                             |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |

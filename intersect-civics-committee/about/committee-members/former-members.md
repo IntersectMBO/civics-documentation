@@ -1,6 +1,6 @@
 # Former Members
 
-The people who have served on the Cardano Civics Committee and have since rotated off. For the people currently serving, [see Committee members](./).
+The people who have served on the Cardano Civics Committee and have since rotated off. For the people currently serving, see Committee members.
 
 ### Previous members
 

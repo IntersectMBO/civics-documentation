@@ -1,6 +1,6 @@
-# Civics Committee Minutes 21st May 2026
+# Civics Minutes 21 May '26
 
-#### Attendees
+### Attendees
 
 | Name                  | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | --------------------- | ---------- | --------- | ----------------- | ------------- |
@@ -16,13 +16,13 @@
 | Jose Miguel De Gamboa | Yes        | Member    | Y                 | April 2028    |
 | Nana Safo             | Yes        | Member    | Y                 | April 2028    |
 
-#### Sources
+### Sources
 
 [CIVICS Committee (Intersect) Meeting - 2026/05/21 14:58 CEST - Recording](https://drive.google.com/file/d/1ONsKdLSsRgoKy-kt2xBZyJELPiqw1_W4/view)
 
 [CIVICS Committee (Intersect) Meeting - 2026/05/21 14:58 CEST - Notes by Gemini](https://docs.google.com/document/d/1pEGOCmPjcP8tK46DV86K5Q5CxXiwfBl4PjSMRDptZzY/edit?tab=t.ty1meu3qq6et)
 
-#### Agenda Items
+### Agenda Items
 
 * Intersect Steering Committee (ISC) Updates
 * Civics Committee Chair and Vice Chair Election Timeline
@@ -31,16 +31,16 @@
 * Working Group Updates: CAP and Governance Incentives
 * CC members Outgoing Member Interviews Framework
 
-#### Decisions/Actions
+### Decisions/Actions
 
-**Decisions Made**
+#### Decisions Made
 
 * Chair Election Timeline established: The application window for Chair and Vice Chair will open from May 21 to May 28, followed by a voting phase from May 28 to June 4.
 * Asynchronous Budget comments: The committee decided to finalize responses to Hydra voting tool comments asynchronously in the internal channel due to the upcoming May 22 locking deadline.
 * Joint Metadata Review: Rather than adjusting the stripped metadata back and forth, the committee decided to hold a joint meeting with the Technical Steering Committee (TSC) to finalize the text.
 * CAP Portal Technical Shift: The CAP working group approved a major architectural transition away from GitHub Open Authorization to a dedicated database to align with Intersect's repository security constraints.
 
-**Action Items**
+#### Action Items
 
 * TL: Open the Chair and Vice Chair election registration portal and document the exact timeline in the internal channel.
 * NC: Coordinate draft responses to feedback from DReps by tomorrow.
@@ -50,7 +50,7 @@
 * JD & S: Share the finalized framework for Constitutional Committee interviews and collect volunteer reviewers.
 * TL: Set up auto-recording and transcript features for the committee accounts to host the upcoming qualitative interview calls.
 
-#### Topic Notes
+### Topic Notes
 
 | Topic                   | Discussion                                                                                                                                                                                                  | Notes                                                                                                                               |
 | ----------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
