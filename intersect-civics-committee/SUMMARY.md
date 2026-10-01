@@ -8,22 +8,6 @@
 * [Working Groups and workstreams](about/working-groups-and-workstreams.md)
 * [How to join or contact us](about/how-to-join-or-contact-us.md)
 
-## Our current work
-
-* [Constitutional Amendment Process](our-current-work/constitutional-amendment-process.md)
-* [Constitutional Committee elections](our-current-work/constitutional-committee-elections/README.md)
-  * [Resources](our-current-work/constitutional-committee-elections/resources.md)
-* [Governance Roadmap 2030](our-current-work/governance-roadmap-2030.md)
-
-## Our Previous work
-
-* [CC minimum size 7 → 5](our-previous-work/cc-minimum-size-7-5.md)
-* [CIP-149 grant programme](our-previous-work/cip-149-grant-programme.md)
-* [CIP-151 / CIP-175](our-previous-work/cip-151-cip-175.md)
-* [Constitution consultation](our-previous-work/constitution-consultation.md)
-* [Governance Education framework](our-previous-work/governance-education-framework.md)
-* [Governance Health KPI report](our-previous-work/governance-health-kpi-report.md)
-
 ## Meeting Minutes
 
 * [2026 Civics Meeting Minutes](meeting-minutes/2026-civics-meeting-minutes/README.md)
@@ -101,6 +85,22 @@
   * [Civics Meeting Minutes October 26, 2023](meeting-minutes/2023-civic-meeting-minutes/civics-meeting-minutes-october-26-2023.md)
   * [Civics Meeting Minutes November 16, 2023](meeting-minutes/2023-civic-meeting-minutes/civics-meeting-minutes-november-16-2023.md)
   * [Civics Meeting Minutes December 7, 2023](meeting-minutes/2023-civic-meeting-minutes/civics-meeting-minutes-december-7-2023.md)
+
+## Our current work
+
+* [Constitutional Amendment Process](our-current-work/constitutional-amendment-process.md)
+* [Constitutional Committee elections](our-current-work/constitutional-committee-elections/README.md)
+  * [Resources](our-current-work/constitutional-committee-elections/resources.md)
+* [Governance Roadmap 2030](our-current-work/governance-roadmap-2030.md)
+
+## Our Previous work
+
+* [CC minimum size 7 → 5](our-previous-work/cc-minimum-size-7-5.md)
+* [CIP-149 grant programme](our-previous-work/cip-149-grant-programme.md)
+* [CIP-151 / CIP-175](our-previous-work/cip-151-cip-175.md)
+* [Constitution consultation](our-previous-work/constitution-consultation.md)
+* [Governance Education framework](our-previous-work/governance-education-framework.md)
+* [Governance Health KPI report](our-previous-work/governance-health-kpi-report.md)
 
 ***
 

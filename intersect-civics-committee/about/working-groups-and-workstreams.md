@@ -8,9 +8,9 @@ Each committee may establish working groups freely to address specific work item
 
 ***
 
-### Active
+## Active
 
-#### Constitutional Amendment Process (CAP)
+### Constitutional Amendment Process (CAP)
 
 **Purpose**: Design and operate a transparent, inclusive process for amending the Cardano Constitution, and run the portal that implements it.\
 **Charter**: [v1.0](https://docs.google.com/document/d/1yiU8E6x2svg5ZjsBtt39DN-j8e7eI-K1_VeMUG10Uzc/edit?usp=sharing), superseded by [v2.0](https://docs.google.com/document/d/1iSrvuWTQGOlQYIq536huYDwM67GuFTrqQEilIi2pE70/edit?usp=sharing) (approved 29 January 2026)\
@@ -31,7 +31,7 @@ Moved to asynchronous working with bi-weekly editor calls on 27 August 2026. Its
 
 ***
 
-#### Cardano Vision 2030: Governance Pillar
+## Cardano Vision 2030: Governance Pillar
 
 **Purpose**: Coordinate Pillar 3 (Governance) of Cardano Vision 2030. The committee agreed on 20 August 2026 to act as strategic coordinator and roadmap owner, leaving technical execution to the wider ecosystem.\
 **Status**: Active. Structured as five parallel lanes with a member champion each, using the [Five Lanes framework](https://drive.google.com/file/d/1qcZNgcWYtK9eS5d0l7Voeay8VsKbgfg0/view?usp=sharing). Deliberately **not** constituted as a separate working group, to avoid fragmenting the committee's limited capacity.
@@ -48,15 +48,15 @@ Moved to asynchronous working with bi-weekly editor calls on 27 August 2026. Its
 
 ***
 
-### Concluded
+## Concluded
 
-#### Governance Health _(paused January 2026)_
+### Governance Health _(paused January 2026)_
 
 **Purpose**: Establish how to measure, understand and improve the health of Cardano's governance. **Charter**: [GHWG Charter](https://docs.google.com/document/d/1hbNAOGpjAODkKRxKIQAN6M0UEmvSgceFf13IY3DlRyk/edit?usp=sharing) **Created**: 17 July 2025, to deliver objective 1 of the [H2 2025 roadmap](https://docs.google.com/document/d/1N5OAsKYL05U_ACKp1s2vmOQNAUzX2-LmLsgzjyMCzxQ/edit?usp=sharing)
 
 **Delivered**: all six milestones, concluding with the [**Governance Health KPI Report**](https://docs.google.com/document/d/1EKH1ktkgu3ne7mta8o-ky7x3yMKcG4onjiFKZxCns24/edit?usp=sharing) (24 pages, six KPI categories), approved for publication 4 December 2025 and released January 2026; and a live [**Dune dashboard**](https://gov-health.intersectmbo.org/) in April 2026. The group paused on delivery rather than closing outright, and reactivation was discussed in May 2026.
 
-#### Governance Education _(concluded March 2026)_
+### Governance Education _(concluded March 2026)_
 
 **Purpose**: Make governance accessible and understandable, supporting DReps, SPOs and community members. **Charter**: [GEWG Charter](https://docs.google.com/document/d/1cnnQ-Xy5f3KqFNJcYh69kH9bA_4fAawDJz_O9nnMbrY/edit?usp=sharing) **Created**: 17 July 2025, to deliver objective 2 of the [H2 2025 roadmap](https://docs.google.com/document/d/1N5OAsKYL05U_ACKp1s2vmOQNAUzX2-LmLsgzjyMCzxQ/edit?usp=sharing)
 
@@ -64,7 +64,7 @@ Moved to asynchronous working with bi-weekly editor calls on 27 August 2026. Its
 
 All working group documents: [GEWG folder](https://drive.google.com/drive/folders/1MWupc891_4SPqUa-U3_DDB9sKNNPdq7o?usp=sharing).
 
-#### Governance Incentives _(dissolved August 2026)_
+### Governance Incentives _(dissolved August 2026)_
 
 **Purpose**: Connect and coordinate work on governance incentive mechanisms, and provide recommendations to the community through the Civics Committee. **Charter**: [GIWG Charter](https://docs.google.com/document/d/1qw435zjqX-LtA_A8C_r0H46Gh1FwkC3Lefb_U2PX_pw/edit?usp=sharing), ratified 30 April 2026 **Created**: 15 January 2026
 
@@ -72,7 +72,7 @@ All working group documents: [GEWG folder](https://drive.google.com/drive/folder
 
 **Why it closed**: the workload had concentrated on a single person and was not sustainable. Rather than let it stall, the committee dissolved the group on 27 August 2026 and moved long-term incentive work into the [Cardano Vision 2030 governance roadmap](https://drive.google.com/file/d/1qcZNgcWYtK9eS5d0l7Voeay8VsKbgfg0/view?usp=sharing).
 
-#### Constitutional Committee Elections _(concluded September 2025)_
+### Constitutional Committee Elections _(concluded September 2025)_
 
 **Purpose**: Enable the Constitutional Committee election to replace the Interim Constitutional Committee on expiry of its term. **Charter**: [CC Elections WG Charter](https://docs.google.com/document/d/1Kk019WWOplZZIJ1suf6hLGWuAeTsBIrRtP7J74Llepc/edit?usp=sharing)
 
@@ -82,7 +82,7 @@ All working group documents: [GEWG folder](https://drive.google.com/drive/folder
 
 → Constitutional Committee elections
 
-#### Constitution Ratification _(concluded 2025)_
+### Constitution Ratification _(concluded 2025)_
 
 **Purpose**: Facilitate the drafting and community ratification of the Cardano Constitution.
 
@@ -90,7 +90,7 @@ All working group documents: [GEWG folder](https://drive.google.com/drive/folder
 
 **Delivered**: the [Draft Constitution](https://drive.google.com/file/d/1SYFzjrRjf7rkBrLRjPi51AyzbZBajrmZ/view?usp=drive_link) and [Cardano Tenets](https://drive.google.com/file/d/1wGTiTkVMWBel_kTfqNrHAl2irphBXD_3/view); 60+ community workshops with 50 grant-funded (13 June 2024); delegate synthesis workshops across multiple regions (7 November 2024); the Constitutional Convention in Argentina; and the Constitution governance action submitted on-chain in January 2025. Issues identified but not resolved during drafting are recorded in the [Constitutional Debt Backlog](https://docs.google.com/document/d/1Bmethc-6Ww7JwVIpRPkBHaeUN8Hrln1bIggry4NJYXI/edit?usp=sharing).
 
-#### Governance Guardrails _(concluded 2024)_
+### Governance Guardrails _(concluded 2024)_
 
 **Purpose**: Recommend the non-parameter guardrails needed to avoid system failures.
 
@@ -98,7 +98,7 @@ All working group documents: [GEWG folder](https://drive.google.com/drive/folder
 
 **Delivered**: the [guardrails analysis](https://docs.google.com/document/d/1bbnPhaiygk0LjOopY5vab19hYWLMDOXk4axSHugSGTA/edit?usp=sharing) that fed the interim Constitution, including the treasury withdrawal net-change-limit provision agreed 7 December 2023 and drafted into text 18 January 2024. That guardrail remains in the Constitution.
 
-#### Governance Support _(archived April 2025)_
+### Governance Support _(archived April 2025)_
 
 **Purpose**: Provide administrative and facilitation resources to the Interim Constitutional Committee, monitor on-chain voting tooling, and maintain voting guidelines and templates. **Charter**: [Governance Support WG Charter (draft)](https://docs.google.com/presentation/d/11L9dO72mI2d_usJVMnjV0RBIQ23UCkrH2Hry_d7Wq3o/edit?usp=sharing)
 
@@ -108,7 +108,7 @@ All working group documents: [GEWG folder](https://drive.google.com/drive/folder
 
 ***
 
-### Taking part
+## Taking part
 
 Working group meeting times and links are in the **Intersect Events Calendar**, each group has a channel on the **Intersect Discord**, and meetings are open to observers.
 

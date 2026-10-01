@@ -4,7 +4,7 @@ The Civics Committee and its working groups are open spaces. Whether you want to
 
 ***
 
-### Observe
+## Observe
 
 **Committee meetings are open.** We meet weekly, alternating between open discussion sessions and internal decision-making sessions. Anyone can attend and listen.
 
@@ -14,7 +14,7 @@ Meeting times and joining links are published in the **Intersect Events Calendar
 
 ***
 
-### Join the conversation
+## Join the conversation
 
 Join the **Intersect Discord** for the committee channel and the active working group channels. If you can't find a channel, contact the Secretary and we'll point you at it.
 
@@ -22,7 +22,7 @@ We also host **Civics X Spaces**: announced on [@intersectCIVICS](https://x.com/
 
 ***
 
-### Join a working group
+## Join a working group
 
 Working groups are open to contributors from the community. You do not need to be a committee member or an Intersect member to participate.
 
@@ -30,7 +30,7 @@ Contact the Civics Secretary:
 
 ***
 
-### Stand for the committee
+## Stand for the committee
 
 Committee elections are held **once a year, each April**. Members serve two-year terms.
 
@@ -42,7 +42,7 @@ The committee seats up to ten voting members alongside a Chair, Vice Chair and S
 
 ***
 
-### Stand for the Constitutional Committee
+## Stand for the Constitutional Committee
 
 Constitutional Committee elections are a separate process, which the Civics Committee facilitates. Candidacy is open beyond Intersect membership.
 
@@ -52,7 +52,7 @@ See Constitutional Committee elections for how the process works, what is requir
 
 ***
 
-### Stay in touch
+## Stay in touch
 
 |                   |                                                                               |
 | ----------------- | ----------------------------------------------------------------------------- |

@@ -1,6 +1,6 @@
 # Civics Minutes 24 Sep '26
 
-### Attendance
+## Attendance
 
 | Name                  | Attendance | Role      | Voting Seat (Y/N) | Election Term |
 | --------------------- | ---------- | --------- | ----------------- | ------------- |
@@ -16,28 +16,28 @@
 | Jose Miguel De Gamboa | Yes        | Member    | Y                 | April 2028    |
 | Nana Safo             | No         | Member    | Y                 | April 2028    |
 
-### Sources
+## Sources
 
 [CIVICS Committee (Intersect) Meeting - 2026/09/24 14:57 CEST - Notes by Gemini](https://docs.google.com/document/d/1RLFin411jDS2XkfJTikKArDT4UaeHYVmcdMDtJA78Og/edit?usp=sharing)
 
 [CIVICS Committee (Intersect) Meeting - 2026/09/24 14:57 CEST - Recording](https://drive.google.com/file/d/1HorNqWGD230dQVnX4h1HNGiGrQbYq8dW/view?usp=sharing)
 
-### Agenda Items
+## Agenda Items
 
 * Intersect Board Election Reminders & Voting Phase Status
 * Q4 Plan Presentation Schedule for ISC & Intersect Board Review
 * CC Compensation and reimbursement Framework
 * Governance Incentive Roadmap
 
-### Decisions/Actions
+## Decisions/Actions
 
-**Decisions Made**
+### **Decisions Made**
 
 * Alignment on Q4 Plan Structure: The committee aligned on submitting the Q4 plan to the Intersect Steering Committee (ISC) and Board, structuring it around key strategic focus areas and operational business-as-usual responsibilities.
 * Cross-Committee Outreach Collaboration: Agreed to initiate direct coordination with the Membership & Community Committee (MCC) to streamline ecosystem surveys, governance education, and social media amplification.
 * Layer-2 Incentive Exploration: Resolved to include technical feasibility studies for potential Layer-2/off-ledger incentive reward mechanisms in parallel with long-term ledger-level incentive modeling.<br>
 
-**Action Items**
+### **Action Items**
 
 * JD & S (Seomon): Finalize and distribute the survey questionnaire for outgoing Constitutional Committee members.
 * TL: Prepare preliminary recommendations for the 2027 Constitutional Committee election cycle using the RACI matrix and proposed timeline format.

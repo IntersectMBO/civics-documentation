@@ -1,8 +1,10 @@
 # Committee Members
 
-### Committee Composition
+## Committee Composition
 
 The committee is composed of a Chair, Vice-Chair, Secretary, supporting staff, and seven committee members. All positions except the Secretary and supporting staff are elected, and all elected members carry a vote.
+
+<table data-search="false"><thead><tr><th>Role</th><th>Name</th><th>Term Rotation</th></tr></thead><tbody><tr><td>Chair</td><td>Nicolas Cerny</td><td>April 2028</td></tr><tr><td>Secretary</td><td>Thomas Lindseth</td><td>N/A - Secretary</td></tr><tr><td>Committee Member</td><td>Ian Hartwell</td><td>April 2027</td></tr><tr><td>Committee Member</td><td>Megan Dyamond</td><td>April 2027</td></tr><tr><td>Committee Member</td><td>Musa Ridwan Itopa</td><td>April 2027</td></tr><tr><td>Committee Member</td><td>Simon Fleck</td><td>April 2027</td></tr><tr><td>Committee Member</td><td>Ken Erik Ølmheim</td><td>April 2028</td></tr><tr><td>Committee Member</td><td>Beatrice Anihiri</td><td>April 2028</td></tr><tr><td>Committee Member</td><td>Nana Safo</td><td>April 2028</td></tr><tr><td>Committee Member</td><td>Jose Miguel De Gamboa</td><td>April 2028</td></tr></tbody></table>
 
 ### Chairs
 
@@ -15,5 +17,3 @@ The committee is composed of a Chair, Vice-Chair, Secretary, supporting staff, a
 ### Intersect staff
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>Thomas Lindseth</strong></td><td>Secretary</td><td></td><td><a href="https://2313322728-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5BQdZEh6JOGB8uosMGwD%2Fuploads%2F9yTUyyCAgUgSSaqZMOA6%2Fintersect-logo-white-cmyk-trademark-blue20example-4.webp?alt=media&#x26;token=ddeb5a9a-719f-4a81-bd1f-3860b48b9351">https://2313322728-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5BQdZEh6JOGB8uosMGwD%2Fuploads%2F9yTUyyCAgUgSSaqZMOA6%2Fintersect-logo-white-cmyk-trademark-blue20example-4.webp?alt=media&#x26;token=ddeb5a9a-719f-4a81-bd1f-3860b48b9351</a></td></tr><tr><td><strong>Larisa Mcfarlane</strong></td><td>Head of Ecosystem</td><td></td><td><a href="https://2313322728-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5BQdZEh6JOGB8uosMGwD%2Fuploads%2F9yTUyyCAgUgSSaqZMOA6%2Fintersect-logo-white-cmyk-trademark-blue20example-4.webp?alt=media&#x26;token=ddeb5a9a-719f-4a81-bd1f-3860b48b9351">https://2313322728-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F5BQdZEh6JOGB8uosMGwD%2Fuploads%2F9yTUyyCAgUgSSaqZMOA6%2Fintersect-logo-white-cmyk-trademark-blue20example-4.webp?alt=media&#x26;token=ddeb5a9a-719f-4a81-bd1f-3860b48b9351</a></td></tr></tbody></table>
-
-Former Members
