@@ -16,6 +16,12 @@
 | Jose Miguel De Gamboa | Yes        | Member    | Y                 | April 2028    |
 | Nana Safo             | Yes        | Member    | Y                 | April 2028    |
 
+### Sources
+
+[CIVICS Committee (Intersect) Meeting - 2026/10/01 14:58 CEST - Recording](https://drive.google.com/file/d/18HkStpEkvbOal113lKSIo9470teh-TaL/view?usp=sharing)
+
+[CIVICS Committee (Intersect) Meeting - 2026/10/01 14:58 CEST - Notes by Gemini](https://docs.google.com/document/d/1rHMhm0kRHNUq6sMbm_J9_JVZZBhFebNHQ686V2vKTi4/edit?usp=sharing)
+
 ### Agenda Items
 
 * Intersect Board Election Results & Town Hall Recap
