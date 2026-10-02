@@ -11,6 +11,7 @@
 ## Meeting Minutes
 
 * [2026 Civics Meeting Minutes](meeting-minutes/2026-civics-meeting-minutes/README.md)
+  * [Civics Minutes 01 Oct '26](meeting-minutes/2026-civics-meeting-minutes/civics-minutes-01-oct-26.md)
   * [Civics Minutes 24 Sep '26](meeting-minutes/2026-civics-meeting-minutes/civics-minutes-24-sep-26.md)
   * [Civics Minutes 17 Sep '26](meeting-minutes/2026-civics-meeting-minutes/civics-minutes-17-sep-26.md)
   * [Civics Minutes 10 Sep '26](meeting-minutes/2026-civics-meeting-minutes/civics-minutes-10-sep-26.md)
